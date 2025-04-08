@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analyse auswählen</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .sample-section {
+            padding: 10px 0;
+            margin-bottom: 20px;
+        }
+        .sample-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .link {
+            color: #007BFF;
+            background-color: #f9f9f9;
+        }
+        .link {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        .link:hover {
+            text-decoration: underline;
+        }
+        .analysis-card {
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            transition: background-color 0.2s, border-color 0.2s;
+        }
+        .analysis-card:hover {
+            background-color: #f5f5f5;
+        }
+        .analysis-card.selected {
+            background-color: #e6f2ff;
+            border-color: #007BFF;
+        }
+        .radio-container {
+            margin-right: 15px;
+        }
+        .content-container {
+            flex-grow: 1;
+        }
+        .analysis-title {
+            font-weight: bold;
+            font-size: 18px;
+            margin-bottom: 5px;
+        }
+        .analysis-description {
+            color: #666;
+            margin-bottom: 5px;
+        }
+        .analysis-meta {
+            font-size: 14px;
+            color: #888;
+        }
+        .meta-item {
+            display: inline-block;
+            margin-right: 15px;
+        }
+        .button-container {
+            margin-top: 30px;
+            display: flex;
+            gap: 15px;
+        }
+        .submit-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .cancel-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #6c757d;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .change-button {
+            padding: 6px 12px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            text-decoration: none;
+            font-size: 14px;
+            display: inline-block;
+        }
+        .change-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Analyse auswählen</h1>
+        </div>
+
+        <div class="sample-section">
+            <div class="sample-header">
+                <h2 style="margin-top: 0; margin-bottom: 0;">Ausgewählte Proben</h2>
+                <a href="index-ffpe.html" class="change-button">Auswahl ändern</a>
+            </div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Block-ID</th>
+                        <th>Gewebeart</th>
+                        <th>Patient</th>
+                        <th>Tumor/Normal</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>FB-2025-0002</td>
+                        <td>Darm</td>
+                        <td>PAT-5391</td>
+                        <td>Tumor</td>
+                    </tr>
+                    <tr>
+                        <td>FB-2025-0003</td>
+                        <td>Gehirn</td>
+                        <td>PAT-4213</td>
+                        <td>Tumor</td>
+                    </tr>
+                    <tr>
+                        <td>FB-2025-0005</td>
+                        <td>Brust</td>
+                        <td>PAT-4629</td>
+                        <td>Tumor</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <h2>Verfügbare Analysemethoden</h2>
+        
+        <form action="result-upload.html" method="get">
+            <div>
+                <!-- Analysis 1 - Immunohistochemistry for FFPE Tissue -->
+                <div id="card-analysis1" class="analysis-card selected" onclick="selectAnalysis('analysis1')">
+                    <div class="radio-container">
+                        <input type="radio" id="analysis1" name="analysisType" value="immunohistochemistry" checked>
+                    </div>
+                    <div class="content-container">
+                        <div class="analysis-title">Immunhistochemie für FFPE-Gewebe</div>
+                        <div class="analysis-description">Anfertigung von Leerschnitten aus FFPE-Blöcken, HE-Färbung als Gewebereferenz, immunhistochemische Färbung, Scannen aller Objektträger und Bereitstellung der Scans für den Forscher.</div>
+                    </div>
+                </div>
+                
+                <!-- Analysis 2 - Spatial Omics from FFPE Tissue -->
+                <div id="card-analysis2" class="analysis-card" onclick="selectAnalysis('analysis2')">
+                    <div class="radio-container">
+                        <input type="radio" id="analysis2" name="analysisType" value="spatialomics">
+                    </div>
+                    <div class="content-container">
+                        <div class="analysis-title">Räumliche Omics aus FFPE-Gewebe</div>
+                        <div class="analysis-description">Anfertigung von Leerschnitten aus FFPE-Blöcken, HE-Färbung als Gewebereferenz, Durchführung des Xenium-Laufs und Bereitstellung der Rohdaten (*.json) für komplexe räumliche Analysen.</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="button-container">
+                <button type="submit" class="submit-button">Analyse anfordern</button>
+                <a href="index.html"><button type="button" class="cancel-button">Abbrechen</button></a>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

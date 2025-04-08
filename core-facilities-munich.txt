@@ -1,0 +1,913 @@
+<div class="col-md-9 col-sm-12">
+
+
+    <h2 class="ccm-block-page-title page-title">Core Facilities Munich</h2>
+
+
+    <h3>Proteomics Facility</h3>
+
+    <div class="imagemodule float-left col-md-6">
+        <div class="inner">
+            <figure class="image"><span class="imagewrapper"><img alt="" data-id="0"
+                        src="https://dktk.dkfz.de/download_file/view/78415bde-f4a8-4ca1-aa49-cc9338bb6647" /></span>
+
+                <figcaption class="smalltext"><span class="copyright"><span class="copysign">&copy;</span> Bernhard
+                        K&uuml;ster/ Technische
+                        Universit&auml;t M&uuml;nchen</span></figcaption>
+            </figure>
+        </div>
+    </div>
+
+    <p><strong>The Core Facility Proteomics at the DKTK Partner site comprises seven high-end mass
+            spectrometers, several liquid chromatography systems and terabyte scale computing
+            infrastructure.</strong></p>
+
+    <p>The range of supported applications span quantitative protein expression profiling of human
+        and animal tissues, tumors, cell lines and body fluids, dynamic analysis of
+        post-translational modifications, protein-protein interactions, drug target identification,
+        drug mechanism of action analysis and many more. We can offer discovery type proteomic
+        experiments using multidimensional chromatography coupled to the latest Orbitrap technology
+        as well as targeted assays using parallel reaction monitoring. All major quantification
+        workflows are established in the laboratory including SILAC, TMT and a range of label-free
+        analysis. We typically work on the basis of scientific collaboration in which we engage our
+        expertise along the entire path from experiment design through to data acquisition and
+        bioinformatic analysis.</p>
+
+
+
+
+    <div class="xw-contact mb-3 mt-5">
+        <div class="xw-contact__item">
+            <div class="row">
+                <div class="col-sm-3 col-6">
+                    <div class="xw-contact__image">
+                        <picture><!--[if IE 9]><video style='display: none;'><![endif]-->
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/2416/1907/8193/Kuester_Bernhard_Munich.jpg"
+                                media="(min-width: 1280px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/2416/1907/8193/Kuester_Bernhard_Munich.jpg"
+                                media="(min-width: 1024px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/2416/1907/8193/Kuester_Bernhard_Munich.jpg"
+                                media="(min-width: 768px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/2416/1907/8193/Kuester_Bernhard_Munich.jpg"
+                                media="(min-width: 640px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/2416/1907/8193/Kuester_Bernhard_Munich.jpg"
+                                media="(min-width: 480px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/2416/1907/8193/Kuester_Bernhard_Munich.jpg"
+                                media="(min-width: 320px)" /><!--[if IE 9]></video><![endif]--><img
+                                src="/application/files/2416/1907/8193/Kuester_Bernhard_Munich.jpg" alt="#"
+                                class="img-fluid" />
+                        </picture>
+                    </div>
+                </div>
+                <div class="col-sm-9 col-6 ps-0">
+                    <h6 class="dk-contact-title">Prof. Dr. Bernhard Küster</h6>
+                    <p class="dk-contact-function mb-0"></p>
+                    <div class="dk-has-external-links">
+                        <p><a href="https://www1.ls.tum.de/proteomics/people/prof-dr-bernhard-kuester/"
+                                target="_blank">Chair of Proteomics and Bioanalytics<br />
+                                Technische Universit&auml;t M&uuml;nchen</a></p>
+                    </div>
+                    <p class="dk-contact-company mb-0 mt-3">Chair of Proteomics and Bioanalytics</p>
+                    <p class="dk-contact-company mb-0">Technische Universität München</p>
+                    <div class="dk-contact-address">
+                        Emil Erlenmeyer Forum 5<br> 85354 Freising </div>
+                    <div class="dk-internal-link">
+                        <a href="https://dktk.dkfz.de/en/about-us/contact-1/contact-form?contact=129&p=926">Send
+                            message</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <hr aria-hidden="true" />
+
+
+    <h3>IBioTUM-Tissue</h3>
+
+    <div class="imagemodule float-right col-md-6">
+        <div class="inner">
+            <figure class="image"><span class="imagewrapper"><img alt="kfbfotografie.jpg" data-id="879"
+                        src="https://dktk.dkfz.de/download_file/view_inline/972aa761-44ec-4015-a014-904957fff120" /></span>
+
+                <figcaption class="smalltext"><span class="copyright"><span class="copysign">&copy;</span>
+                        kfbfotografie</span></figcaption>
+            </figure>
+        </div>
+    </div>
+
+    <p>The tissue bank of the Klinikum rechts der Isar and the Technical University of Munich has
+        been systematically storing fresh, unfixed tumor tissue and corresponding non-neoplastic
+        tissue since 1989. The tissue bank currently has an extensive tissue collection of both
+        malignant tumor tissue and non-neoplastic tissue as well as benign tumors or tumor
+        precursors.<br />
+        <br />
+        The tissue bank offers a wide range of services, including
+    </p>
+
+    <ul>
+        <li>Long-term storage of samples in special facilities at -80&deg;C, -20&deg;C and in the
+            gas phase of liquid nitrogen.</li>
+        <li>Advice and support in the selection of methods and patient collectives.</li>
+        <li>Preparation of tissue sections from cryosamples and formalin-fixed block preparations.
+        </li>
+        <li>Histological H&amp;E diagnostics.</li>
+        <li>Planning and production of tissue microarrays (TMAs).</li>
+        <li>Maintaining a comprehensive and secure database and providing detailed information on
+            samples and processing history.</li>
+        <li>Scanning of slides.</li>
+        <li>Immunohistochemistry.</li>
+    </ul>
+
+    <p>The tissue bank collaborates with other institutions and departments, such as the routine
+        laboratory of the Institute of Pathology and Pathological Anatomy at the Technical
+        University of Munich, as well as with Comparative Experimental Pathology (CeP) and is
+        actively involved in networks such as the German Biobank Node (GBN) and the European biobank
+        network BBMRI-ERIC. Through these activities, the tissue bank contributes to the further
+        development and quality assurance of biobanks.</p>
+
+    <p>For more information, please click <a href="https://web.med.tum.de/path/gewebebank/" target="_blank">here</a>.
+    </p>
+
+
+
+
+    <div class="xw-contact mb-3 mt-5">
+        <div class="xw-contact__item">
+            <div class="row">
+                <div class="col-sm-3 col-6">
+                    <div class="xw-contact__image">
+                        <picture><!--[if IE 9]><video style='display: none;'><![endif]-->
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/thumbnails/xw_xlarge/6616/9718/3549/steiger_katja_5_4.jpg"
+                                media="(min-width: 1280px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/thumbnails/xw_large/6616/9718/3549/steiger_katja_5_4.jpg"
+                                media="(min-width: 1024px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/thumbnails/xw_mediumLarge/6616/9718/3549/steiger_katja_5_4.jpg"
+                                media="(min-width: 768px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/thumbnails/xw_medium/6616/9718/3549/steiger_katja_5_4.jpg"
+                                media="(min-width: 640px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/thumbnails/xw_small/6616/9718/3549/steiger_katja_5_4.jpg"
+                                media="(min-width: 480px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/thumbnails/xw_xsmall/6616/9718/3549/steiger_katja_5_4.jpg"
+                                media="(min-width: 320px)" /><!--[if IE 9]></video><![endif]--><img
+                                src="/application/files/6616/9718/3549/steiger_katja_5_4.jpg" alt="#"
+                                class="img-fluid" />
+                        </picture>
+                    </div>
+                </div>
+                <div class="col-sm-9 col-6 ps-0">
+                    <h6 class="dk-contact-title">PD Dr. med. vet. Katja Steiger</h6>
+                    <p class="dk-contact-function mb-0"></p>
+                    <p class="dk-contact-company mb-0 mt-3">Klinikum rechts der Isar, Institut für
+                        Allgemeine Pathologie und Pathologische Anatomie</p>
+                    <p class="dk-contact-company mb-0"></p>
+                    <div class="dk-contact-address">
+                        Trogerstr. 18<br> 81675 München </div>
+                    <div class="dk-internal-link">
+                        <a href="https://dktk.dkfz.de/en/about-us/contact-1/contact-form?contact=496&p=926">Send
+                            message</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <hr aria-hidden="true" />
+
+
+    <h3>&nbsp;</h3>
+
+    <h3>Xenograft mouse model of acute leukemias</h3>
+
+    <p><strong>The Core Facility &ldquo;Xenograft mouse model of acute leukemias&rdquo; studies
+            primary patients&acute; tumor cells growing in mice, performs preclinical treatment
+            trials and molecular studies on basic disease biology.</strong></p>
+
+    <div class="imagemodule float-right col-md-3">
+        <div class="inner">
+            <figure class="image"><span class="imagewrapper"><img alt="" data-id="0"
+                        src="https://dktk.dkfz.de/download_file/view/5faaab05-946b-46b8-8995-a1a666bb3400" /></span>
+
+                <figcaption class="smalltext"><span class="caption-text">In vivo bioluminescence
+                        imaging (BLI) allows reliable and sensitive follow-up of preclinical
+                        treatment trials</span> <span class="copyright"><span class="copysign">
+                            &copy;</span> AG Jeremias</span></figcaption>
+            </figure>
+        </div>
+    </div>
+
+    <p>The core facility offers:</p>
+
+    <ul class="dk-custom-list">
+        <li>engrafting and amplifying primary tumor cells from patients with ALL or AML as
+            patient-derived xenografts (PDX) in mice</li>
+        <li>biobank of re-transplantable PDX samples for&nbsp;<em>in vitro</em>&nbsp;studies, &gt;50
+            for ALL and &gt;10 for AML</li>
+        <li>genetic engineering in PDX (GEPDX) cells for overexpression of transgenes</li>
+        <li>preclinical&nbsp;<em>in vivo</em>&nbsp;treatment trials monitored by
+            bioluminescence&nbsp;<em>in vivo</em>&nbsp;imaging
+            <ul>
+                <li>quantifying treatment responses as early as 4 days after treatment</li>
+                <li>covering all disease stages including minimal residual disease</li>
+                <li>focusing on challenging sub-populations such as dormant stem cells</li>
+            </ul>
+        </li>
+    </ul>
+
+    <p><a href="https://www.helmholtz-munich.de/en/ahs" target="_blank">More information on the
+            Xenograft Facility M&uuml;nchen</a></p>
+
+
+
+    <div class="imagemodule col-md-8">
+        <div class="inner">
+            <figure class="image"><span class="imagewrapper"><img alt="" data-id="0"
+                        src="https://dktk.dkfz.de/download_file/view/f19c6440-b801-4a43-b596-82a09592a69d" /></span>
+                <figcaption class="smalltext"><span class="caption-text">Characteristics of AML PDX
+                        samples that were established within the first DKTK funding period </span>
+                    <span class="copyright"><span class="copysign"> &copy;</span> AG Jeremias</span>
+                </figcaption>
+            </figure>
+        </div>
+    </div>
+    <p>&nbsp;</p>
+
+
+
+    <div class="xw-contact mb-3 mt-5">
+        <div class="xw-contact__item">
+            <div class="row">
+                <div class="col-sm-3 col-6">
+                    <div class="xw-contact__image">
+                        <picture><!--[if IE 9]><video style='display: none;'><![endif]-->
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/5316/1901/1182/Jeremias_Irmela_Munchen.jpg"
+                                media="(min-width: 1280px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/5316/1901/1182/Jeremias_Irmela_Munchen.jpg"
+                                media="(min-width: 1024px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/5316/1901/1182/Jeremias_Irmela_Munchen.jpg"
+                                media="(min-width: 768px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/5316/1901/1182/Jeremias_Irmela_Munchen.jpg"
+                                media="(min-width: 640px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/5316/1901/1182/Jeremias_Irmela_Munchen.jpg"
+                                media="(min-width: 480px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/thumbnails/xw_xsmall/5316/1901/1182/Jeremias_Irmela_Munchen.jpg"
+                                media="(min-width: 320px)" /><!--[if IE 9]></video><![endif]--><img
+                                src="/application/files/5316/1901/1182/Jeremias_Irmela_Munchen.jpg" alt="#"
+                                class="img-fluid" />
+                        </picture>
+                    </div>
+                </div>
+                <div class="col-sm-9 col-6 ps-0">
+                    <h6 class="dk-contact-title">Prof. Dr. Irmela Jeremias</h6>
+                    <p class="dk-contact-function mb-0"></p>
+                    <div class="dk-has-external-links">
+                    </div>
+                    <p class="dk-contact-company mb-0 mt-3">Dr. von Haunersches Kinderspital</p>
+                    <p class="dk-contact-company mb-0">Klinikum der Universität München Helmholtz
+                        Zentrum München</p>
+                    <div class="dk-contact-address">
+                        Marchioninistraße 25<br> 81377 München </div>
+                    <div class="dk-internal-link">
+                        <a href="https://dktk.dkfz.de/en/about-us/contact-1/contact-form?contact=104&p=926">Send
+                            message</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <hr aria-hidden="true" />
+
+
+    <h3>Leukemia Genomics Facility</h3>
+
+    <div class="imagemodule float-left col-md-6">
+        <div class="inner">
+            <figure class="image"><span class="imagewrapper"><img alt="" data-id="0"
+                        src="https://dktk.dkfz.de/download_file/view/b4765156-a61c-49bd-9677-8fc5ac3c93c6" /></span>
+
+                <figcaption class="smalltext"><span class="copyright"><span class="copysign">&copy;</span> angellodeco /
+                        Fotolia.com</span>
+                </figcaption>
+            </figure>
+        </div>
+    </div>
+
+    <p><strong>Genetic characterisation plays a central role for diagnostics, treatment selection
+            and prognostication in patients with leukemia. In close cooperation with local and DKTK
+            partners, we support DKTK scientists exploring the biology and pathogenesis of
+            leukemia.</strong></p>
+
+    <p>Our aim is to develop innovative techniques for leukemia diagnostics. Our location at
+        the&nbsp;<a href="http://www.klinikum.uni-muenchen.de/de/das_klinikum/index.html"
+            target="_blank">Ludwig-Maximilians-Universit&auml;t M&uuml;nchen (LMU)&nbsp;</a>in
+        the&nbsp;<a href="http://www.klinikum.uni-muenchen.de/Medizinische-Klinik-und-Poliklinik-III/de/index.html"
+            target="_blank">Department of Hematology and Oncology</a>&nbsp;provides a close
+        collaboration with the clinic and translational research groups. We have access to a large
+        number of well-annotated patient specimens that have been collected at our routine
+        diagnostics laboratory&nbsp;<a
+            href="http://www.klinikum.uni-muenchen.de/Medizinische-Klinik-und-Poliklinik-III/de/leukaemiediagnostik/index.html"
+            target="_blank">(Laboratory for Leukemia Diagnostics)</a>.</p>
+
+    <p>&nbsp;</p>
+
+
+
+    <div class="imagemodule float-right col-md-3">
+        <div class="inner">
+            <figure class="image"><span class="imagewrapper"><img alt="" data-id="0"
+                        src="https://dktk.dkfz.de/download_file/view/3404ac44-2c0f-4311-abea-808ea668d83a/926" /></span>
+                <figcaption class="smalltext"><span class="caption-text">MiSeq personal
+                        sequencer</span> <span class="copyright"><span class="copysign">
+                            &copy;</span> AG Spiekermann</span></figcaption>
+            </figure>
+        </div>
+    </div>
+    <p>Our facility can provide the following services to DKTK-affiliated groups:</p>
+    <p>Genetic characterization of human tissue specimens (primarily peripheral blood and bone
+        marrow) using a variety of approaches including</p>
+    <ul class="dk-custom-list">
+        <li>Metaphase and molecular cytogenetics</li>
+        <li>Conventional molecular genetics (Sanger sequencing, fragment analysis and qPCR; various
+            assays established for recurrent mutations in hematopoietic neoplasms)</li>
+        <li>Targeted next-generation sequencing (established panels of recurrently mutated genes in
+            myeloid and lymphoid neoplasms)</li>
+        <li>Whole-exome and whole-genome sequencing</li>
+        <li>Single-cell genotyping</li>
+    </ul>
+    <p>&nbsp;</p>
+
+
+    <div class="imagemodule float-right col-md-3">
+        <div class="inner">
+            <figure class="image"><span class="imagewrapper"><img alt="" data-id="0"
+                        src="https://dktk.dkfz.de/download_file/view/dbaeff10-8527-4ba2-a7d4-d7dfc11fac88/926" /></span>
+                <figcaption class="smalltext"><span class="caption-text">Analyse rekurrenter
+                        Genmutationen in 664 AML-Patienten mittels &lsquo;targeted
+                        sequencing&rsquo;</span> <span class="copyright"><span class="copysign">
+                            &copy;</span> AG Metzeler</span></figcaption>
+            </figure>
+        </div>
+    </div>
+    <p>Our main areas of research focus on the following topics</p>
+    <ul class="dk-custom-list">
+        <li>Genetic characterisation of myeloid neoplasias</li>
+        <li>Evaluation of novel prognostic and predictive markers in leukemia</li>
+        <li>New therapeutic targets in leukemias</li>
+        <li>Identification of markers for minimal residual disease (MRD)</li>
+        <li>Research on clonal evolution of leukemia</li>
+    </ul>
+    <p>Core facility members: Prof. Dr. Karsten Spiekermann, PD Dr. Klaus Metzeler, PD Dr. Tobias
+        Herold, PD Dr. Philipp Greif, Dr. Sebastian Vosberg, Sebastian Tschuri</p>
+
+
+
+    <div class="xw-contact mb-3 mt-5">
+        <div class="xw-contact__item">
+            <div class="row">
+                <div class="col-sm-3 col-6">
+                    <div class="xw-contact__image">
+                        <picture><!--[if IE 9]><video style='display: none;'><![endif]-->
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/2416/1917/3165/Spiekermann_Karsten.jpg"
+                                media="(min-width: 1280px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/2416/1917/3165/Spiekermann_Karsten.jpg"
+                                media="(min-width: 1024px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/2416/1917/3165/Spiekermann_Karsten.jpg"
+                                media="(min-width: 768px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/2416/1917/3165/Spiekermann_Karsten.jpg"
+                                media="(min-width: 640px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/2416/1917/3165/Spiekermann_Karsten.jpg"
+                                media="(min-width: 480px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/2416/1917/3165/Spiekermann_Karsten.jpg"
+                                media="(min-width: 320px)" /><!--[if IE 9]></video><![endif]--><img
+                                src="/application/files/2416/1917/3165/Spiekermann_Karsten.jpg" alt="#"
+                                class="img-fluid" />
+                        </picture>
+                    </div>
+                </div>
+                <div class="col-sm-9 col-6 ps-0">
+                    <h6 class="dk-contact-title">Prof. Dr. Karsten Spiekermann</h6>
+                    <p class="dk-contact-function mb-0"></p>
+                    <p class="dk-contact-company mb-0 mt-3">Klinikum der Universität München</p>
+                    <p class="dk-contact-company mb-0">Medizinische Klinik und Poliklinik III</p>
+                    <div class="dk-contact-address">
+                        Marchioninistr. 15<br> 81377 München </div>
+                    <div class="dk-internal-link">
+                        <a href="https://dktk.dkfz.de/en/about-us/contact-1/contact-form?contact=224&p=926">Send
+                            message</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <hr aria-hidden="true" />
+
+
+    <h3><br />Immune Analytics</h3>
+    <div class="imagemodule float-right col-md-6">
+        <div class="inner">
+            <figure class="image"><span class="imagewrapper"><img alt="Labor Krackhardt.jpg" data-id="880"
+                        src="https://dktk.dkfz.de/download_file/view_inline/42a3407e-8e5c-4c97-bf6c-8671c2df06b1" /></span>
+                <figcaption class="smalltext"><span class="copyright"><span class="copysign">&copy;</span> A. Krackhardt
+                        / Klinikum rechts der Isar
+                        M&uuml;nchen</span></figcaption>
+            </figure>
+        </div>
+    </div>
+    <p><strong>The Core Facility Immune Analytics at the DKTK partner site Munich has a broad
+            expertise in identification and characterization of tumor-specific immune responses and
+            offer support in a variety of in-depth analyses in tumor immunology.</strong></p>
+    <p>Activities supported by the faciltiy include logistics and sampling of fresh tumor material
+        and blood, preparation of tumor and blood material, phenotyping of PBMC and cells of the
+        tumor microenvirnoment by flos cytometry using established panelds, cultivation and
+        expansion fo tumor-infiltrating lymphocytes, establishment of tumor cell lines and
+        EBV-transformed B cells, identification of tumor antigens, immunoprecipitation of MHC class
+        I and II peptide complexes, isolation and genetic transfer of T cell receptors, sorting of
+        single cells of the tumor microenvironment by flow cytometry, preparation of cell
+        suspensions and signle cell solutions for sequencing, establishment of xenogeneic mouse
+        models, immunoimaging, clinical correlation, support and counseling in preparation of
+        clinical trials of immunotherapeutic approaches in cancer. The cooperation typically bases
+        on scientific collaboration.</p>
+
+
+
+    <div class="xw-contact mb-3 mt-5">
+        <div class="xw-contact__item">
+            <div class="row">
+                <div class="col-sm-3 col-6">
+                    <div class="xw-contact__image">
+                        <picture><!--[if IE 9]><video style='display: none;'><![endif]-->
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/2816/3180/4894/Bildschirmfoto_2021-09-16_um_17.07.54.png"
+                                media="(min-width: 1280px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/2816/3180/4894/Bildschirmfoto_2021-09-16_um_17.07.54.png"
+                                media="(min-width: 1024px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/2816/3180/4894/Bildschirmfoto_2021-09-16_um_17.07.54.png"
+                                media="(min-width: 768px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/2816/3180/4894/Bildschirmfoto_2021-09-16_um_17.07.54.png"
+                                media="(min-width: 640px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/2816/3180/4894/Bildschirmfoto_2021-09-16_um_17.07.54.png"
+                                media="(min-width: 480px)" />
+                            <source
+                                srcset="https://dktk.dkfz.de/application/files/thumbnails/xw_xsmall/2816/3180/4894/Bildschirmfoto_2021-09-16_um_17.07.54.png"
+                                media="(min-width: 320px)" /><!--[if IE 9]></video><![endif]--><img
+                                src="/application/files/2816/3180/4894/Bildschirmfoto_2021-09-16_um_17.07.54.png"
+                                alt="#" class="img-fluid" />
+                        </picture>
+                    </div>
+                </div>
+                <div class="col-sm-9 col-6 ps-0">
+                    <h6 class="dk-contact-title">Prof. Dr. Angela Krackhardt</h6>
+                    <p class="dk-contact-function mb-0"></p>
+                    <p class="dk-contact-company mb-0 mt-3">Klinikum rechts der Isar</p>
+                    <p class="dk-contact-company mb-0">III. Medizinischen Klinik</p>
+                    <div class="dk-contact-address">
+                        Ismaninger Str. 22<br> 81675 München </div>
+                    <div class="dk-internal-link">
+                        <a href="https://dktk.dkfz.de/en/about-us/contact-1/contact-form?contact=124&p=926">Send
+                            message</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <hr aria-hidden="true" />
+
+
+    <h3><br />
+        Genomics Technology and Informatics Platform</h3>
+
+    <p><strong>Genome research deploying next generation sequencing and other genomic technologies
+            is a major driver of discoveries in life science. Profiling genomes, epigenomes or
+            transcriptomes in organisms, tissues or single cells has become a standard. </strong>
+    </p>
+
+    <p>At the same time, a rapidly growing number of sequencing applications is transforming the way
+        we perform basic research across life sciences, with high-throughput sequencing-based
+        methods complementing - and in many cases entirely replacing - classic &quot;gene by
+        gene&quot; based experimental approaches.</p>
+
+    <p>The Genomic Technology Unit aims to address the increasing need for sequencing applications
+        and analytical capabilities in biomedical research. We develop genomic tools and protocols,
+        implement emerging sequencing applications as well as bioinformatics methods and pipelines
+        in various research ares, including genomics, epigenetics, (epi)transcriptomics and
+        functional genomics. We cover a broad spectrum of applications, ranging from sequencing
+        based profiling of genomes, chromatin or transcriptomes over genome-scale genetic screening
+        methodologies to numerous individualized sequencing and bioinformatics requests.</p>
+
+
+
+
+    <div class="xw-contact mb-3 mt-5">
+        <div class="xw-contact__item">
+            <div class="row">
+                <div class="col-sm-3 col-6">
+                    <div class="xw-contact__image">
+                        <picture><!--[if IE 9]><video style='display: none;'><![endif]-->
+                            <source srcset="https://dktk.dkfz.de/application/files/5516/1909/5293/Rad_Roland.jpg"
+                                media="(min-width: 1280px)" />
+                            <source srcset="https://dktk.dkfz.de/application/files/5516/1909/5293/Rad_Roland.jpg"
+                                media="(min-width: 1024px)" />
+                            <source srcset="https://dktk.dkfz.de/application/files/5516/1909/5293/Rad_Roland.jpg"
+                                media="(min-width: 768px)" />
+                            <source srcset="https://dktk.dkfz.de/application/files/5516/1909/5293/Rad_Roland.jpg"
+                                media="(min-width: 640px)" />
+                            <source srcset="https://dktk.dkfz.de/application/files/5516/1909/5293/Rad_Roland.jpg"
+                                media="(min-width: 480px)" />
+                            <source srcset="https://dktk.dkfz.de/application/files/5516/1909/5293/Rad_Roland.jpg"
+                                media="(min-width: 320px)" /><!--[if IE 9]></video><![endif]--><img
+                                src="/application/files/5516/1909/5293/Rad_Roland.jpg" alt="#" class="img-fluid" />
+                        </picture>
+                    </div>
+                </div>
+                <div class="col-sm-9 col-6 ps-0">
+                    <h6 class="dk-contact-title">Prof. Dr. Roland Rad</h6>
+                    <p class="dk-contact-function mb-0"></p>
+                    <p class="dk-contact-company mb-0 mt-3">Klinikum rechts der Isar</p>
+                    <p class="dk-contact-company mb-0">II. Medizinischen Klinik</p>
+                    <div class="dk-internal-link">
+                        <a href="https://dktk.dkfz.de/en/about-us/contact-1/contact-form?contact=176&p=926">Send
+                            message</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <hr aria-hidden="true" />
+
+
+    <h3>Real-Time Cell Metabolic Analysis // Seahorse // Agilent</h3>
+
+    <p>The Seahorse XF HS Mini Analyzer (Agilent Biotechnologies) measures mitochondrial respiration
+        (oxygen consumption rate OCR) and glycolysis (extracellular acidification ECAR) of living
+        cells (cultured cells and ex vivo samples) in an 8 well plate in real time. OCR and ECAR are
+        key indicators of oxidative phophorylation and glycolysis. The instrument also allows the
+        addition of substances and can therefore also make statements about their utilization.</p>
+
+    <h4>Contact</h4>
+
+    <p><strong>PD Dr. med. Matthias Ilmer</strong><br />
+        LMU Klinikum<br />
+        +49 89 4400 71218<br />
+        <a
+            href="mailto:matthias.ilmer@med.uni-muenchen.de?subject=Cytation%201%20">matthias.ilmer@med.uni-muenchen.de</a>
+    </p>
+
+    <p><strong>Prof. Dr. Alexandr Bazhin</strong><br />
+        LMU Klinikum<br />
+        +49 89 4400 73440<br />
+        <a
+            href="mailto:alexandr.bazhin@med.uni-muenchen.de?subject=Cytation%201%20">alexandr.bazhin@med.uni-muenchen.de</a>
+    </p>
+
+    <h4>Location of device</h4>
+
+    <p>LMU Klinikum, Campus Gro&szlig;hadern<br />
+        Labor f&uuml;r Experimentelle Forschung Chirurgie</p>
+
+    <h4>Costs</h4>
+
+    <p>on request</p>
+
+
+
+    <hr aria-hidden="true" />
+
+
+    <h3>Radiochemistry Synthesizer // All-In-One // Trasis</h3>
+
+    <p>The synthesizer merges in a single integrated instrument a synthesizer and a HPLC with
+        reformulation capability, which allows implementing both very simple and the most complex
+        radiochemistry. If there is a need to evolve towards more complex tracers, the synthesizer
+        can be upgraded to a different configuration model. The synthesizer includes 30 valves,
+        HPLC, multiple radioactivity, and UV detection for GMP compliant routine production
+        of&nbsp;<sup>18</sup>F tracers and /or for R&amp;D.</p>
+
+    <div class="imagemodule float-right col-md-4">
+        <div class="inner">
+            <figure class="image"><span class="imagewrapper"><img alt="" data-id="0"
+                        src="https://dktk.dkfz.de/download_file/view/d9718533-843d-4e1f-8adc-86ce0941bac1" /></span>
+
+                <figcaption class="smalltext"><span class="caption-text">Das All-In-One
+                        Synthesemodul (Fa. TRASIS) in einer Blei-abgeschirmten Synthesezelle (einer
+                        sog. &bdquo;Heisszelle&ldquo;, Ansicht bei ge&ouml;ffneter Zellent&uuml;r)
+                        in einem Reinraum der Radiopharmazie </span> <span class="copyright"><span class="copysign">
+                            &copy;</span> AG Bartenstein</span></figcaption>
+            </figure>
+        </div>
+    </div>
+
+    <h4>Contact</h4>
+
+    <p><strong>Dr. Franz J. Gildehaus</strong><br />
+        089 4400 69944<br />
+        <a
+            href="mailto:franz.gildehaus@med.uni-muenchen.de?subject=All-In-One%20/%20Request%20from%20DKTK%20Website">franz.gildehaus@med.uni-muenchen.de</a>
+    </p>
+
+    <p><strong>Prof. Dr. Peter Bartenstein</strong><br />
+        089 4400 74611<br />
+        <a
+            href="mailto:peter.bartenstein@med.uni-muenchen.de?subject=All-In-One%20/%20Request%20from%20DKTK%20Website">peter.bartenstein@med.uni-muenchen.de</a>
+    </p>
+
+    <h4>Location of device</h4>
+
+    <p>LMU Klinkum, Campus Gro&szlig;hadern, Radiopharmacy Center, Building BT028,
+        Marchioninistrasse 15, 81377 M&uuml;nchen</p>
+
+    <h4>Costs</h4>
+
+    <p>In the synthesis module, a sample is equivalent to a synthesis run. The cost of doing so
+        varies greatly depending on the complexity of the chemical synthesis to be performed, how
+        expensive the starting components are, and how the GMP requirements are defined. Normally
+        the costs / synthesis are between 800 &euro; and 2.600 &euro;.</p>
+
+    <h4>Service</h4>
+
+    <p>Production of 18F-labeled compounds for in vivo PET imaging. These include:<br />
+        - Radiofluorinations of small molecules, peptides and biomolecules<br />
+        - development of labeling strategies<br />
+        - automation of radiosynthesis<br />
+        - GMP-compliant implementation</p>
+
+    <p>&nbsp;</p>
+
+
+
+    <hr aria-hidden="true" />
+
+
+    <h3>Cell Imaging Multi-Mode Reader // Cytation 1 // Biotek</h3>
+    <div class="imagemodule float-left col-md-4">
+        <div class="inner">
+            <figure class="image"><span class="imagewrapper"><img alt="" data-id="0"
+                        src="https://dktk.dkfz.de/download_file/view/66c301c9-97da-4375-a5dd-0fea525caf3e/926" /></span>
+                <figcaption class="smalltext"><span class="caption-text">Cytation 1</span> <span class="copyright"><span
+                            class="copysign"> &copy;</span> AG Theurich</span>
+                </figcaption>
+            </figure>
+        </div>
+    </div>
+    <p>Cytation&trade; 1 Cell Imaging Multi-Mode Reader combines fluorescence and high contrast
+        brightfield imaging with conventional multi-mode detection. This design provides both
+        quantitative phenotypic cellular information with well-based quantitative data. Cytation
+        1&#39;s multi-mode detection module includes high sensitivity filter-based fluorescence and
+        a monochromator system for UV-Vis absorbance. For long-term measurements the device is able
+        to control temperature, CO<sub>2</sub>&nbsp;and O<sub>2</sub>. The reader is also equipped
+        with an injector that allows imaging of immediate cell responses upon compound exposure.</p>
+    <p>&nbsp;</p>
+
+
+    <h4>Contact</h4>
+    <p><strong>Prof. Dr. Sebastian Theurich</strong><br />Medizinische Klinik III, LMU
+        Klinikum&nbsp;<br />Marchioninistr. 25, 81377 M&uuml;nchen<br /><a
+            href="mailto:sebastian.theurich@med.uni-muenchen.de?subject=Cytation%201%20/%20Request%20from%20DKTK%20Website">sebastian.theurich@med.uni-muenchen.de</a>
+    </p>
+    <p><strong>Prof. Dr. Michael von Bergwelt</strong><br />Medizinische Klinik III, LMU
+        Klinikum<br />Marchioninistr. 25, 81377 M&uuml;nchen<br /><a
+            href="mailto:sebastian.theurich@med.uni-muenchen.de?subject=Cytation%201%20/%20Request%20from%20DKTK%20Website">michael.bergwelt@med.uni-muenchen.de</a>
+    </p>
+    <h4>Location of device</h4>
+    <p>Genzentrum LMU<br />AG Theurich / AG Bergwelt<br />Feodor-Lynen-Str. 25, 81377 M&uuml;nchen
+    </p>
+    <h4>Costs</h4>
+    <p>on request</p>
+    <h4>Application</h4>
+    <p>Monochromator: 6- to 384-well plates /// Filters: 6- to 1536-well plates /// Imaging: 6- to
+        1536-well plates /// Microscope slides, Petri and cell culture dishes, cell culture flasks
+        (T25), counting chambers (hemocytometer) /// Take3 Micro-Volume Plates</p>
+    <p>&nbsp;</p>
+
+
+    <hr aria-hidden="true" />
+
+
+    <h3>Digital Single Molecule Quantification //&nbsp;nCounter&reg; Analysis System // NanoString,
+        a Bruker Company</h3>
+
+    <p>The nCounter technology allows direct quantification of up to 800 targets in a single assay
+        without the necessity of amplifying target molecules. Possibility to measure mRNA, miRNA,
+        lncRNA, dsDNA, und ssDNA (pre-designed or customized code sets available; multiple samples
+        can be multiplexed) in a variety of specimens (tissue biopsies, blood, bone marrow, etc.).
+        No library preparation or sophisticated pre-analytical processing required. More information
+        on <a href="https://nanostring.com/products/ncounter-analysis-system/sprint-profiler/"
+            target="_blank">nCounter&reg;</a>.</p>
+
+
+
+    <div class="imagemodule float-right col-md-4">
+        <div class="inner">
+            <figure class="image"><span class="imagewrapper"><img alt="" data-id="0"
+                        src="https://dktk.dkfz.de/download_file/view/ee1b61ed-c53e-4681-ac6b-3aa6e656e92a" /></span>
+                <figcaption class="smalltext"><span class="caption-text">nCounter</span> <span class="copyright"><span
+                            class="copysign"> &copy;</span> NanoString, a Bruker
+                        Company</span></figcaption>
+            </figure>
+        </div>
+    </div>
+
+    <h4>Contact</h4>
+
+    <p><strong>Michael Heide</strong><br />
+        Medizinische Klinik III, ELLF, LMU Klinikum<br />
+        <a
+            href="mailto:michael.heide@med.uni-muenchen.de?subject=Nanostring%20/%20Request%20from%20DKTK%20Website">michael.heide@med.uni-muenchen.de</a>
+    </p>
+
+    <p><strong>Prof. Dr.&nbsp;Oliver Weigert</strong><br />
+        Medizinische Klinik III, ELLF, LMU Klinikum<br />
+        <a
+            href="mailto:oliver.weigert@med.uni-muenchen.de?subject=Nanostring%20/%20Request%20from%20DKTK%20Website">oliver.weigert@med.uni-muenchen.de</a>
+    </p>
+
+    <h4>Location of device</h4>
+
+    <p>Experimentelle Leuk&auml;mie- und Lymphom-Forschung (ELLF)<br />
+        Max-Lebsche-Platz 30, 81377 M&uuml;nchen</p>
+
+    <h4>Service &amp; Costs</h4>
+
+    <p>Technical support via Weigert lab<br />
+        User bears the cost of consumables, currently no user fee applied</p>
+
+    <p>&nbsp;</p>
+
+
+
+    <hr aria-hidden="true" />
+
+
+    <h3>Automated Quantitative Pathology Imaging System // Vectra&reg; Polaris&trade; // Perkin
+        Elmer</h3>
+
+    <div class="imagemodule float-left col-md-4">
+        <div class="inner">
+            <figure class="image"><span class="imagewrapper"><img alt="" data-id="0"
+                        src="https://dktk.dkfz.de/download_file/view/86cb3f59-f49d-4fb9-b05d-c396ba39deb2" /></span>
+
+                <figcaption class="smalltext"><span class="caption-text">Vectra&reg;
+                        Polaris&trade;</span> <span class="copyright"><span class="copysign">
+                            &copy;</span> AG P. Jung</span></figcaption>
+            </figure>
+        </div>
+    </div>
+
+    <p>State of the art multispectral imaging to detect and measure multiple biomarkers within a
+        single tissue.<br />
+        &nbsp;</p>
+
+    <h4>Contact</h4>
+
+    <p><strong>Prof. Dr. Martina Rudelius</strong><br />
+        <a
+            href="mailto:martina.rudelius@med.uni-muenchen.de?subject=Vectra%20Polaris%20/%20Request%20from%20DKTK%20Website">martina.rudelius@med.uni-muenchen.de</a><br />
+        +49-89-2180-73706
+    </p>
+
+
+
+    <h4>Location of device</h4>
+
+    <p>Institut f&uuml;r Pathologie der LMU M&uuml;nchen, Campus Innenstadt<br />
+        Thalkirchner Str. 36, 80337 M&uuml;nchen</p>
+
+    <h4>Service &amp; Costs</h4>
+
+    <p>Basic material: FFPE tissue sections stained with up to 6 established antigens and using OPAL
+        dyes</p>
+
+    <p>Costs: on request</p>
+
+    <p>&nbsp;</p>
+
+
+
+    <hr aria-hidden="true" />
+
+
+    <h3>Bioluminescence tomography // MuriGlo // Xstrahl</h3>
+    <p>MuriGlo is an in vivo optical imaging system for bioluminescence tomography. It can be used
+        as stand-alone-imaging device or in combination with the existing conebeam-CT-platform for
+        bioluminescence imaging in small animal models (preferentially in mice).</p>
+
+
+    <div class="imagemodule float-right col-md-4">
+        <div class="inner">
+            <figure class="image"><span class="imagewrapper"><img alt="" data-id="0"
+                        src="https://dktk.dkfz.de/download_file/view/e7293f81-9b3c-418e-911a-f61983b65468" /></span>
+                <figcaption class="smalltext"><span class="caption-text">MuriGlo</span> <span class="copyright"><span
+                            class="copysign"> &copy;</span> Xstrahl</span>
+                </figcaption>
+            </figure>
+        </div>
+    </div>
+
+    <h4>Contact</h4>
+
+    <p><strong>Prof. Dr. Kirsten Lauber</strong><br />
+        Moleculare Oncology, Department of Radiation Oncolgoy<br />
+        +49-89-4400-76740<br />
+        <a
+            href="mailto:kirsten.lauber@med.uni-muenchen.de?subject=MurioGlo%20/%20Request%20from%20DKTK%20Website">kirsten.lauber@med.uni-muenchen.de</a>
+    </p>
+
+    <h4>Location of device</h4>
+
+    <p>LMU Klinikum, Campus Gro&szlig;hadern<br />
+        Animal facility of the Department of Radiation Oncology</p>
+
+    <h4>Service &amp; Costs</h4>
+
+    <p>Basic material: small animal models with bioluminescence features</p>
+
+    <p>Service: bioluminescence tomography imaging (+/- conebeam CT scanning), consulting for animal
+        experimentation proposals</p>
+
+    <p>Costs: on request; one sample represents one bioluminescence tomography scan of one animal
+    </p>
+
+    <p>&nbsp;</p>
+
+
+
+    <hr aria-hidden="true" />
+
+
+    <h3>Pre-clinical CT-Scanner // X-Cube // Molecubes</h3>
+
+    <div class="imagemodule float-left col-md-4">
+        <div class="inner">
+            <figure class="image"><span class="imagewrapper"><img alt="" data-id="0"
+                        src="https://dktk.dkfz.de/download_file/view/cec00570-174e-48ac-abbe-075406e3663f" /></span>
+
+                <figcaption class="smalltext"><span class="caption-text">X-Cube</span> <span class="copyright"><span
+                            class="copysign"> &copy;</span> AG Mayerle,
+                        Bartenstein</span></figcaption>
+            </figure>
+        </div>
+    </div>
+
+    <p>The X-Cube is a high-throughput x-ray CT-scanner for pre-clinical mouse and rat models. The
+        CT imaging procedure is very fast and gives images of the complete animal body at extremely
+        low dosages and with an excellent soft tissue contrast. Advanced workflows such as gated and
+        dynamic contrast enhanced imaging can be achieved in a functional and integrated set up.</p>
+
+
+
+    <h4>Contact</h4>
+    <p><strong>Dr. Ivonne Regel</strong><br />+49-89-4400-73178<br /><a
+            href="mailto:ivonne.regel@med.uni-muenchen.de?subject=X-Cube%20/%20Request%20from%20DKTK%20Website">ivonne.regel@med.uni-muenchen.de</a>
+    </p>
+    <p><strong>Prof. Dr. Sybille Ziegler</strong><br />+49-89-4400-77619<br /><a
+            href="mailto:sybille.ziegler@med.uni-muenchen.de?subject=X-Cube%20/%20Request%20from%20DKTK%20Website">sybille.ziegler@med.uni-muenchen.de</a>
+    </p>
+    <h4>Location of device</h4>
+    <p>LMU Klinikum, Campus Gro&szlig;hadern<br />Preclinical Imaging Lab</p>
+    <h4>Service &amp; Costs</h4>
+    <p>Basic material: small animal models (mouse or rat) with an approve health report</p>
+    <p>Costs: on request</p>
+</div>

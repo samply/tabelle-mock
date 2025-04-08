@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analyseergebnisse hochladen</title>
+    <style>
+        body { font-family: sans-serif; margin: 0; padding: 0; background-color: white; }
+        .container { max-width: 800px; margin: 0 auto; padding: 30px 20px; background-color: transparent; margin-top: 50px; }
+        .header { text-align: center; margin-bottom: 30px; }
+        .info-panel { background-color: #f9f9f9; border-radius: 6px; padding: 20px; margin-bottom: 30px; }
+        .info-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; }
+        table { width: 100%; border-collapse: collapse; font-size: 14px; }
+        th, td { border: 1px solid #ddd; padding: 10px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        tr:nth-child(even) { background-color: #f9f9f9; }
+        .upload-area { border: 2px dashed #ccc; border-radius: 6px; padding: 30px; text-align: center; margin-bottom: 20px; background-color: #fafafa; }
+        .button-primary { background-color: #007BFF; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 4px; cursor: pointer; }
+        .button-secondary { background-color: #6c757d; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 4px; cursor: pointer; }
+        .status-complete { color: #4caf50; }
+        .file-input { display: none; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Analyseergebnisse hochladen</h1>
+            <p style="color: #666;">Anfrage-ID: AR-2025-0042</p>
+        </div>
+
+        <div class="info-panel">
+            <h2 style="margin-top: 0; font-size: 18px; color: #444;">Anfrage-Details</h2>
+            <div class="info-grid">
+                <div>
+                    <p style="margin: 5px 0; font-size: 14px;"><strong>Angefordert von:</strong> Dr. Maria Schmidt</p>
+                    <p style="margin: 5px 0; font-size: 14px;"><strong>Abteilung:</strong> Tumorbiologie</p>
+                    <p style="margin: 5px 0; font-size: 14px;"><strong>Eingereicht am:</strong> 12. April 2025</p>
+                </div>
+                <div>
+                    <p style="margin: 5px 0; font-size: 14px;"><strong>Analysetyp:</strong> Räumliche Omics aus FFPE-Gewebe</p>
+                    <p style="margin: 5px 0; font-size: 14px;"><strong>Anzahl der Proben:</strong> 3</p>
+                    <p style="margin: 5px 0; font-size: 14px;"><strong>Status:</strong> <span style="color: #ff9800; font-weight: bold;">In Bearbeitung</span></p>
+                </div>
+            </div>
+        </div>
+
+        <div style="margin-bottom: 30px;">
+            <h2 style="font-size: 18px; color: #444;">Probenübersicht</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Block-ID</th>
+                        <th>Gewebeart</th>
+                        <th>Patienten-ID</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>FB-2025-0002</td>
+                        <td>Darm</td>
+                        <td>PAT-5391</td>
+                        <td><span class="status-complete">✓ Abgeschlossen</span></td>
+                    </tr>
+                    <tr>
+                        <td>FB-2025-0003</td>
+                        <td>Gehirn</td>
+                        <td>PAT-4213</td>
+                        <td><span class="status-complete">✓ Abgeschlossen</span></td>
+                    </tr>
+                    <tr>
+                        <td>FB-2025-0005</td>
+                        <td>Brust</td>
+                        <td>PAT-4629</td>
+                        <td><span class="status-complete">✓ Abgeschlossen</span></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div style="margin-bottom: 30px;">
+            <h2 style="font-size: 18px; color: #444;">Ergebnisse hochladen</h2>
+            
+            <div class="upload-area">
+                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24" fill="none" stroke="#666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                    <polyline points="17 8 12 3 7 8"></polyline>
+                    <line x1="12" y1="3" x2="12" y2="15"></line>
+                </svg>
+                <h3 style="margin: 15px 0;">Dateien hierher ziehen oder klicken zum Hochladen</h3>
+                <p style="color: #666; margin-bottom: 20px;">Akzeptierte Dateiformate: .jpg, .png, .tiff, .json, .zip (max. 500MB)</p>
+                <input type="file" id="fileUpload" class="file-input" multiple>
+                <label for="fileUpload" class="button-primary">Dateien auswählen</label>
+            </div>
+        </div>
+
+        <div style="margin-top: 20px;">
+            <h3>Hochgeladene Dateien (0)</h3>
+            <p style="color: #666; font-style: italic;">Noch keine Dateien hochgeladen</p>
+            
+            <div style="border-top: 1px solid #ddd; margin-top: 30px; padding-top: 20px; display: flex; justify-content: space-between;">
+                <div>
+                    <label>
+                        <input type="checkbox">
+                        Analyse ist abgeschlossen
+                    </label>
+                </div>
+                <div>
+                    <button class="button-primary" disabled>Ergebnisse einreichen</button>
+                    <button class="button-secondary" style="margin-left: 10px;">Entwurf speichern</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

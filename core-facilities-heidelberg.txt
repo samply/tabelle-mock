@@ -1,0 +1,470 @@
+<div class="col-md-9 col-sm-12">
+
+
+    <h2 class="ccm-block-page-title page-title">Technology Expertise Networks and Core Facilities
+        Heidelberg</h2>
+
+
+    <h3>Genomics and Proteomics Heidelberg</h3>
+
+    <div class="imagemodule float-right col-md-6">
+        <div class="inner">
+            <figure class="image"><span class="imagewrapper"><img alt="" data-id="0"
+                        src="https://dktk.dkfz.de/download_file/view/b817962e-fa1c-41bf-845b-32437c805ec1" /></span>
+
+                <figcaption class="smalltext"><span class="copyright"><span class="copysign">&copy;</span> DKFZ</span>
+                </figcaption>
+            </figure>
+        </div>
+    </div>
+
+    <p>The DKFZ Genomics and Proteomics Core Facility (GPCF) is a central research infrastructure
+        providing DKTK members access to sophisticated key technologies that serve the need of
+        biomedical science and offering high quality solutions at reasonable costs. Trained and
+        dedicated personnel ensure highest quality and reproducibility of our services. Services are
+        processed according to the &quot;first come - first served&quot; principle.</p>
+
+    <p>The GPCF technology portfolio mostly covers the following areas:</p>
+
+    <ul class="dk-custom-list">
+        <li>
+            <p>The genomics part of the facility operates one of Europe&rsquo;s largest
+                next-generation sequencing units offering Illumina HiSeq and MiSeq technologies, the
+                latest Illumina Hi-Seq X-Ten platform and the NovaSeq und NextSeq technologies. GPCF
+                performs WGS, WGBS, WES, ChIP-seq, mRNA-seq, smallRNA-seq etc. within several
+                national and international cancer genome projects (e.g., INFORM, DKTK), in addition
+                to a variety of individual in-house projects. The unique Illumina HiSeq X-Ten
+                platform for whole genome sequencing, which was funded by DKTK and established in
+                the years 2014-2015 allows whole genome sequencing of more than 8,000 patients per
+                year.</p>
+
+            <p>Gene and miRNA expression profiling (Illumina, Agilent, Affymetrix), genotyping
+                (Illumina, Affymetrix) and methylation (Illumina MethylationEPIC BeadChip) analysis
+                is carried out using array-based technologies. Moreover, an array-based kinase
+                activity profiling service is established.At the beginning of January 2019, the High
+                Throughput Sequencing-Unit and the Microarray applications for clinical analysis
+                were accredited according to the international standard DIN EN ISO/IEC 17025.</p>
+        </li>
+        <li>The proteomics section provides technologies for analyzing proteins, protein
+            modifications and small molecules by state-of-the-art mass spectrometry and NMR in a
+            qualitative and quantitative manner.</li>
+        <li>In the field of functional genomics the GPCF generates monoclonal antibodies on demand,
+            some of which are by now used in diagnostics. The service covers the production of
+            monoclonal and polyclonal antibodies, as well as the non-GMP production and purification
+            of antibodies on a larger scale for preclinical studies.<br />
+            Isogenic cell lines stably expressing recombinant proteins or shRNAs from a particular
+            genomic locus are generated e.g., to assess phenotypes of proteins and mutants in in
+            vitro as well as in vivo systems, e.g., in xenograft mouse models. Furthermore, a
+            lenti/retrovirus transduction service, which includes filing the application, risk
+            assessment, cell line transduction and the complete safety documentation, is
+            established.</li>
+        <li>The central Infrastructure of the GPCF offers assisted access to several costly
+            instruments (e.g., qPCR- and ddPCR-system) being utilized by a number of scientific
+            groups with help of an online booking system, and it further distributes the human ORF
+            clone resource of the international ORFeome Collaboration (&gt;17,000 human genes) for
+            recombinant expression of encoded proteins, also in isogenic cell lines.</li>
+    </ul>
+
+    <p>Our mission is to always enable application of state-of-the-art technologies and to offer
+        high quality solutions. We carry out joint projects with scientific groups within DKFZ to
+        implement the latest technologies that serve the needs of science. In addition to providing
+        full or assisted access to services, we are involved in the DKFZ teaching program, and
+        organize tech-talks, seminars and practical courses where we inform interested scientists,
+        predocs and technicians on the technological background of applications.</p>
+
+    <p><strong><a href="http://www.dkfz.de/gpcf" target="_blank">GPCF Homepage</a></strong></p>
+
+
+
+    <div class="dk-container dk-container--three-columns">
+        <div class="row">
+            <div class="col-12">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+
+
+
+                <div class="xw-contact mb-3 mt-5">
+                    <div class="xw-contact__item">
+                        <div class="row">
+                            <div class="col-12">
+                                <h6 class="dk-contact-title">Prof. Dr. Stefan Wiemann</h6>
+                                <p class="dk-contact-function mb-0">Head of GPCF</p>
+                                <div>
+                                    Phone: +49 6221 424700 </div>
+                                <div class="dk-internal-link">
+                                    <a href="https://dktk.dkfz.de/en/about-us/contact-1/contact-form?contact=262&p=928">Send
+                                        message</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-4">
+
+
+
+                <div class="xw-contact mb-3 mt-5">
+                    <div class="xw-contact__item">
+                        <div class="row">
+                            <div class="col-12">
+                                <h6 class="dk-contact-title">Dr. Dr. Maike Brück</h6>
+                                <p class="dk-contact-function mb-0">GPCF Coordinator</p>
+                                <div>
+                                    Phone: +49 6221 424734 </div>
+                                <div class="dk-internal-link">
+                                    <a href="https://dktk.dkfz.de/en/about-us/contact-1/contact-form?contact=321&p=928">Send
+                                        message</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-4">
+
+
+
+                <div class="xw-contact mb-3 mt-5">
+                    <div class="xw-contact__item">
+                        <div class="row">
+                            <div class="col-12">
+                                <h6 class="dk-contact-title">Prof. Ilse Hofmann</h6>
+                                <div class="dk-has-external-links">
+                                    <p><a target="_blank" class="dk-external-link"
+                                            href="http://www.dkfz.de/gpcf/monoclonals.html">Antibodies</a>
+                                    </p>
+                                </div>
+                                <div>
+                                    Phone: +49 6221 423351 </div>
+                                <div class="dk-internal-link">
+                                    <a href="https://dktk.dkfz.de/en/about-us/contact-1/contact-form?contact=322&p=928">Send
+                                        message</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="dk-container dk-container--three-columns">
+        <div class="row">
+            <div class="col-12">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+
+
+
+                <div class="xw-contact mb-3 mt-5">
+                    <div class="xw-contact__item">
+                        <div class="row">
+                            <div class="col-12">
+                                <h6 class="dk-contact-title">Dr. Stephan Wolf</h6>
+                                <div class="dk-has-external-links">
+                                    <p><a target="_blank" class="dk-external-link"
+                                            href="http://www.dkfz.de/gpcf/hts_main.html">Ultra-deep
+                                            sequencing</a></p>
+                                </div>
+                                <div>
+                                    Phone: +49 6221 423409 </div>
+                                <div class="dk-internal-link">
+                                    <a href="https://dktk.dkfz.de/en/about-us/contact-1/contact-form?contact=323&p=928">Send
+                                        message</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-4">
+
+
+
+                <div class="xw-contact mb-3 mt-5">
+                    <div class="xw-contact__item">
+                        <div class="row">
+                            <div class="col-12">
+                                <h6 class="dk-contact-title">Dr. Melanie Bewerunge-Hudler</h6>
+                                <div class="dk-has-external-links">
+                                    <p><a target="_blank" class="dk-external-link"
+                                            href="http://www.dkfz.de/gpcf/genomics.html">Microarray
+                                            technologies</a></p>
+                                </div>
+                                <div>
+                                    Phone: +49 6221 424733 </div>
+                                <div class="dk-internal-link">
+                                    <a href="https://dktk.dkfz.de/en/about-us/contact-1/contact-form?contact=324&p=928">Send
+                                        message</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-4">
+
+
+
+                <div class="xw-contact mb-3 mt-5">
+                    <div class="xw-contact__item">
+                        <div class="row">
+                            <div class="col-12">
+                                <h6 class="dk-contact-title">Dr. Rainer Will</h6>
+                                <div class="dk-has-external-links">
+                                    <p><a class="dk-external-link"
+                                            href="http://www.dkfz.de/gpcf/isogenic_cell_lines.html"
+                                            target="_blank">Isogenic cell line technology</a><br />
+                                        <a href="http://www.dkfz.de/gpcf/resources.html" target="_blank">Vector &amp;
+                                            Clone Repository</a>
+                                    </p>
+                                </div>
+                                <div>
+                                    Phone: +49 6221 424749 </div>
+                                <div class="dk-internal-link">
+                                    <a href="https://dktk.dkfz.de/en/about-us/contact-1/contact-form?contact=325&p=928">Send
+                                        message</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="dk-container dk-container--three-columns">
+        <div class="row">
+            <div class="col-12">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+
+
+
+                <div class="xw-contact mb-3 mt-5">
+                    <div class="xw-contact__item">
+                        <div class="row">
+                            <div class="col-12">
+                                <h6 class="dk-contact-title">Dr. Dominic Helm</h6>
+                                <div class="dk-has-external-links">
+                                    <p><a target="_blank" class="dk-external-link"
+                                            href="https://www.dkfz.de/gpcf/mass_spectrometry.html">Mass
+                                            Spectrometry based Protein Analysis</a></p>
+                                </div>
+                                <div>
+                                    Phone: +49 6221 421811 </div>
+                                <div class="dk-internal-link">
+                                    <a href="https://dktk.dkfz.de/en/about-us/contact-1/contact-form?contact=327&p=928">Send
+                                        message</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-4">
+
+
+
+                <div class="xw-contact mb-3 mt-5">
+                    <div class="xw-contact__item">
+                        <div class="row">
+                            <div class="col-12">
+                                <h6 class="dk-contact-title">Dr. Karel Klika</h6>
+                                <div class="dk-has-external-links">
+                                    <p><a href="https://www.dkfz.de/genomics-proteomics/nmr-spectroscopy"
+                                            target="_blank">Molecular Structural Analysis / NMR</a>
+                                    </p>
+                                </div>
+                                <div>
+                                    Phone: +49 6221 424544 </div>
+                                <div class="dk-internal-link">
+                                    <a href="https://dktk.dkfz.de/en/about-us/contact-1/contact-form?contact=328&p=928">Send
+                                        message</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
+
+
+
+    <h3>Technical Expertise Network: Immune Monitoring</h3>
+
+    <p>Since its establishment in 2015, the<a href="https://www.dkfz.de/en/immun-monitoring/"
+            target="_blank">&nbsp;DKFZ/NCT immune monitoring unit&nbsp;</a>has supported numerous
+        clinical trials including &gt;700 patients and continuously expanded its methods portfolio.
+        We currently provide blood and tissue-based immune monitoring to 14 clinical studies, which
+        include Heidelberg IITs as well as external phase I and II studies. These trials include
+        patients with brain, lung, esophageal, colon, breast and skin cancers treated with
+        immune-modulatory antibodies, vaccines, radiation and cellular therapies.</p>
+
+    <p>We aim to develop highly customized approaches and are driven by scientific curiosity. At the
+        same time, we utilize a quality management system, including a panel of validated immune
+        assays, to meet GMP and GCLP requirements of selected trials.</p>
+
+    <p>Technological innovation is currently transforming immunology. We are leaving behind tedious
+        screening of pre-selected parameters in bulk populations, in favor of high-resolution
+        profiling of immune receptor repertoires, cellular function, cell state and history:</p>
+
+    <ul class="dk-custom-list">
+        <li><strong>High parametric flow cytometry</strong>&nbsp;(BD FACS Lyric, 12 fluorochrome
+            parameters) for phenotypic and functional parameters provides us with basic information
+            on the cellular composition of blood and tissue samples. We aim to increase multiplexed
+            measurements of fresh samples to preserve the majority of cells for down-stream
+            analysis.</li>
+        <li>We measure&nbsp;<strong>immune reactivity and antigen specificity</strong>&nbsp;using
+            ELIspot, ELISA, Luminex, as well flow-cytometry and sequencing based assays, to reveal
+            e.g. the cytokine profile, the frequency of antigen-reactive cells and/or the receptors
+            involved in antigen-recognition.</li>
+        <li><strong>TCR deep-sequencing and discovery:</strong>&nbsp;Immune repertoire analysis has
+            emerged as a powerful tool to understand and track immune responses. We perform
+            DNA-based TCR beta-chain sequencing using a commercial kit (ImmunoSeq) and in-house
+            sequencing facilities and are happy to assist DKTK partners in immune-repertoire
+            analysis.</li>
+        <li><strong>Single-cell immune profiling:</strong>&nbsp;High-throughput barcoded single cell
+            (sc) analysis represents a quantum-leap for immune-monitoring purposes, as it can
+            resolve functionality in the extreme diversity of immune cells and in parallel deliver
+            their antigen-specific receptors. Using the 10x technology, we can obtain information on
+            TCR, transcriptome and/or proteome of individual cells for up to 10.000 cells/sample.
+        </li>
+        <li>Strategic combination of functional assays with bulk- and sc sequencing technologies
+            using blood, tissue, expanded T cells or TIL cultures enables the
+            rapid&nbsp;<strong>discovery of candidate tumor-reactive receptors&nbsp;</strong>that
+            are cloned and undergo in vitro<strong>&nbsp;functional validation</strong>.</li>
+    </ul>
+
+    <p><a href="https://dktk.dkfz.de/index.php?cID=797">For more information visit the Immune
+            Monitoring DKTK website.</a>&nbsp;</p>
+
+
+
+
+    <div class="xw-contact mb-3 mt-5">
+        <div class="xw-module-title mb-5">
+            <h4 class="title">Contact</h4>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="xw-contact__item">
+                    <div class="row">
+                        <div class="col-4">
+                            <div class="xw-contact__image">
+                                <picture><!--[if IE 9]><video style='display: none;'><![endif]-->
+                                    <source
+                                        srcset="https://dktk.dkfz.de/application/files/9516/5884/9773/Picture_M_Platten__2020.jpg"
+                                        media="(min-width: 1280px)" />
+                                    <source
+                                        srcset="https://dktk.dkfz.de/application/files/9516/5884/9773/Picture_M_Platten__2020.jpg"
+                                        media="(min-width: 1024px)" />
+                                    <source
+                                        srcset="https://dktk.dkfz.de/application/files/thumbnails/xw_mediumLarge/9516/5884/9773/Picture_M_Platten__2020.jpg"
+                                        media="(min-width: 768px)" />
+                                    <source
+                                        srcset="https://dktk.dkfz.de/application/files/thumbnails/xw_medium/9516/5884/9773/Picture_M_Platten__2020.jpg"
+                                        media="(min-width: 640px)" />
+                                    <source
+                                        srcset="https://dktk.dkfz.de/application/files/thumbnails/xw_small/9516/5884/9773/Picture_M_Platten__2020.jpg"
+                                        media="(min-width: 480px)" />
+                                    <source
+                                        srcset="https://dktk.dkfz.de/application/files/thumbnails/xw_xsmall/9516/5884/9773/Picture_M_Platten__2020.jpg"
+                                        media="(min-width: 320px)" />
+                                    <!--[if IE 9]></video><![endif]--><img
+                                        src="/application/files/9516/5884/9773/Picture_M_Platten__2020.jpg" alt="#"
+                                        class="img-fluid" />
+                                </picture>
+                            </div>
+                        </div>
+                        <div class="col-8 ps-0">
+                            <h6 class="dk-contact-title">Prof. Dr. Michael Platten</h6>
+                            <div class="dk-has-external-links">
+                                <p><a href="https://www.dkfz.de/en/neuroimmunologie/index.php" target="_blank">DKFZ
+                                        Neuroimmunology and Brain Tumor
+                                        Immunology, &Auml;rztlicher Direktor, Neurologische Klinik,
+                                        Mannheim</a></p>
+                            </div>
+                            <div class="dk-internal-link">
+                                <a href="https://dktk.dkfz.de/en/about-us/contact-1/contact-form?contact=171&p=928">Send
+                                    message</a>
+                            </div>
+                            <div class="dk-contact-groups">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="xw-contact__item">
+                    <div class="row">
+                        <div class="col-4">
+                            <div class="xw-contact__image">
+                                <picture><!--[if IE 9]><video style='display: none;'><![endif]-->
+                                    <source
+                                        srcset="https://dktk.dkfz.de/application/files/6316/1978/2060/Photo_Isabel.png"
+                                        media="(min-width: 1280px)" />
+                                    <source
+                                        srcset="https://dktk.dkfz.de/application/files/6316/1978/2060/Photo_Isabel.png"
+                                        media="(min-width: 1024px)" />
+                                    <source
+                                        srcset="https://dktk.dkfz.de/application/files/6316/1978/2060/Photo_Isabel.png"
+                                        media="(min-width: 768px)" />
+                                    <source
+                                        srcset="https://dktk.dkfz.de/application/files/thumbnails/xw_medium/6316/1978/2060/Photo_Isabel.png"
+                                        media="(min-width: 640px)" />
+                                    <source
+                                        srcset="https://dktk.dkfz.de/application/files/thumbnails/xw_small/6316/1978/2060/Photo_Isabel.png"
+                                        media="(min-width: 480px)" />
+                                    <source
+                                        srcset="https://dktk.dkfz.de/application/files/thumbnails/xw_xsmall/6316/1978/2060/Photo_Isabel.png"
+                                        media="(min-width: 320px)" />
+                                    <!--[if IE 9]></video><![endif]--><img
+                                        src="/application/files/6316/1978/2060/Photo_Isabel.png" alt="#"
+                                        class="img-fluid" />
+                                </picture>
+                            </div>
+                        </div>
+                        <div class="col-8 ps-0">
+                            <h6 class="dk-contact-title">Dr. Isabel Poschke</h6>
+                            <div class="dk-has-external-links">
+                                <p><a href="https://www.dkfz.de/en/immun-monitoring/index.php" target="_blank">German
+                                        Cancer Research Center (DKFZ)</a></p>
+                            </div>
+                            <div class="dk-internal-link">
+                                <a href="https://dktk.dkfz.de/en/about-us/contact-1/contact-form?contact=338&p=928">Send
+                                    message</a>
+                            </div>
+                            <div class="dk-contact-groups">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

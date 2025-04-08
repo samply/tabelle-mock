@@ -1,0 +1,185 @@
+<div class="col-md-9 col-sm-12">
+
+
+    <h2 class="ccm-block-page-title page-title">Core Facilities Berlin</h2>
+
+
+    <p>Several core facilities centralize expertise and equipment in Berlin to support translational
+        cancer research. Facilities are set up for amplicon panel analysis, metabolomics, mass
+        cytometry (CyTOF2), small animal imaging and biobanking. DKTK researchers also have access
+        to further facilities at the Charit&eacute;, Max-Delbr&uuml;ck Centrum (MDC) and Berlin
+        Institute of Health (BIH), which include Genomics, Proteomics, Bioinformatics, IT, Chemical
+        Biology, Stem Cells and Transgenics Cores</p>
+    <h3>4C-PMU Unit (Cancer Center Unit for personalized medicine)</h3>
+    <div class="imagemodule float-left col-md-6">
+        <div class="inner">
+            <figure class="image"><span class="imagewrapper"><img alt="" data-id="0"
+                        src="https://dktk.dkfz.de/download_file/view/ce842566-1738-4aea-bb2b-8cab043501f9/913" /></span>
+            </figure>
+        </div>
+    </div>
+    <p>The 4C-PMU is a joint cancer sequencing initiative of the Charit&eacute; Comprehensive Cancer
+        Center (CCCC), DKTK, and the Laboratory of Molecular Tumor Pathology (MTP), and the
+        molecular pathology unit at the Institute of Pathology. The sequencing unit houses two Ion
+        Torrent PGM systems, one Ion Chef and one Illumina MiSeq system (Fig. 1). Sequencing
+        approaches are focused on customized and commercially available gene panels permitting
+        in-depth analysis of heterogeneous cancer samples. Specific gene panels were developed for
+        the following cancer entities: colon cancer, head and neck carcinoma, lymphoma,
+        neuroendocrine carcinomas, breast cancer and leukemia. Panels for ovarian cancer, pediatric
+        tumors, and melanoma and are still under development. Two Droplet Digital PCR systems and
+        two StepOnePlus Real-Time PCR systems were installed for the validation of the sequencing
+        data. The analysis of liquid biopsy samples is currently being developed for head and neck
+        cancer. The 4C-PMU performs on request companion diagnostics based on NGS analysis within
+        clinical trials organized at the CCCC.<br />Bioinformatics analysis is done as a community
+        effort conducted mainly by local DKTK groups, and supported by the Computational Modeling
+        Group at IRI (Humboldt University) and the informatics unit (CUBI) at the Berlin Institute
+        of Health (BIH).</p>
+
+
+
+    <div class="xw-contact mb-3 mt-5">
+        <div class="xw-module-title mb-5">
+            <h4 class="title">Contact</h4>
+        </div>
+        <div class="xw-contact__item">
+            <div class="row">
+                <div class="col-12">
+                    <h6 class="dk-contact-title">Prof. Dr. Christine Sers (PGM Ion Torrent)</h6>
+                    <div class="dk-has-external-links">
+                    </div>
+                    <p class="mb-0"></p>
+                    <p class="mb-0"></p>
+                    <div class="dk-contact-address">
+                    </div>
+                    <div>
+                        Phone: 030 450 536 079 </div>
+                    <div class="dk-internal-link">
+                        <a href="https://dktk.dkfz.de/en/about-us/contact-1/contact-form?contact=320&p=913">Send
+                            message</a>
+                    </div>
+                    <div class="dk-contact-groups">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <h3>Cancer Metabolomics Platform</h3>
+
+    <div class="imagemodule float-left col-md-6">
+        <div class="inner">
+            <figure class="image"><span class="imagewrapper"><img alt="" data-id="0"
+                        src="https://dktk.dkfz.de/download_file/view/6b9ae789-799b-4bf2-a027-ccf549ab031c" /></span>
+
+                <figcaption class="smalltext"><span class="copyright"><span class="copysign">&copy;</span> Jan Lisec /
+                        Charit&eacute;, Berlin</span>
+                </figcaption>
+            </figure>
+        </div>
+    </div>
+
+    <p>The metabolome reflects the current functional status of the cell. Metabolomic changes play a
+        central role in the pathogenesis and therapy of malignant diseases. The at the DKTK partner
+        site Berlin established gas chromatography, coupled with high resolution mass spectrometry
+        (GC-MS), is a sensitive and robust platform for the analysis of metabolites of the primary
+        metabolism (amino acids, sugars, nucleic acids) (Fig. 2). This technique offers a broad
+        applicability in tumor biology and interdisciplinary problems. The MS technology (APCI
+        Q-TOF) allows quantitative statements and is particularly suitable for the elucidation of
+        the structure of unknown analytes and for the analysis of very small samples volumes.
+        Metabolic flux analysis is currently under establishment. As increasingly important
+        extension of other, in Berlin reproached omics platforms, the cancer metabolomics platform
+        enables functional, systems biology insights into the tumor metabolism and contributes to
+        the identification of novel therapeutic principles.</p>
+
+    <p>&nbsp;</p>
+
+
+
+    <h3>Biobank &ndash; ZeBanC</h3>
+
+    <div class="imagemodule float-left col-md-6">
+        <div class="inner">
+            <figure class="image"><span class="imagewrapper"><img alt="" data-id="0"
+                        src="https://dktk.dkfz.de/download_file/view/9a114fcb-6c6c-4361-8ecd-1966ce54e359" /></span>
+
+                <figcaption class="smalltext"><span class="copyright"><span class="copysign">&copy;</span>
+                        Unternehmenskommunikation Charit&eacute;
+                        Berlin</span></figcaption>
+            </figure>
+        </div>
+    </div>
+
+    <p>For innovative biomedical research scientists need high-quality biomaterials such as blood,
+        urine and tissue samples and treatment data. The biobank service not only includes all steps
+        of the processing chain from surgery to storage but also includes services covering many
+        aspects of tissues such as histology, immunphenotyping, RNA/DNA extraction and all steps of
+        quality control. A major focus is the handling and storage of fresh tumor tissues. The
+        Charit&eacute; Biobank ZeBanC provides a total number of 2.5 Mill FFPE samples (10,000
+        cancer patients/per year = 100,000 FFPE samples per year) and 100,000 fresh frozen samples.
+    </p>
+
+    <p>With the <a href="https://dktk.dkfz.de/en/clinical-platform/working-groups-partners/ccp-bio">joint
+            biobank</a>, in which Charit&eacute; and BIH invest a total of 3.9 million euros, better
+        conditions for successful, independent and internationally competitive translational
+        research will be provided. The new biobank building will be located at the Charit&eacute;
+        Campus and completed by April 2016.</p>
+
+    <p>Charit&eacute; is also the host for the BMBF-funded German Biobank Node (GBN) and acts via
+        BBMRI as a hub for the European biobank infrastructure BBMRI-ERIC.<br />
+        Notably, the Charit&eacute; also hosts specialized collections of tumor specimens including
+        the Tumor bank Ovarian Carcinoma (TOC), the German Breast Group Biobank and biobanks for
+        pediatric relapsed ALL, central nervous system lymphomas and brain tumors.</p>
+
+    <p>&nbsp;</p>
+
+
+
+    <h3>Berlin Experimental Radionuclide Imaging Center (BERIC)</h3>
+    <div class="imagemodule float-left col-md-6">
+        <div class="inner">
+            <figure class="image"><span class="imagewrapper"><img alt="" data-id="0"
+                        src="https://dktk.dkfz.de/download_file/view/256eefce-7917-4ce1-aa62-0bdc982005b0/913" /></span>
+                <figcaption class="smalltext"><span class="copyright"><span class="copysign">&copy;</span> BERIC,
+                        Charit&eacute; Berlin</span>
+                </figcaption>
+            </figure>
+        </div>
+    </div>
+    <p>The BERIC offers as a core facility of the Charit&eacute; all modalities of modern hybrid
+        small animal imaging with radiopharmaceuticals.</p>
+    <p>The multidisciplinary team is using its expertise and the latest state-of-the-art equipment
+        (SPECT / CT, PET / MR; Angiography/PET, Fig. 2) available to users. The service offered
+        includes all steps from consulting to study design, the tracer selection, tracer production,
+        keeping of radioactive animals, conduction of the animal experiments, including image and
+        data analysis and data storage as well as post mortem biodistribution experiments. The BERIC
+        also offers services such as radiolabeling of ligands, in vitro evaluation of tracers and
+        the generation of (genetically modified) cell lines and animal models (orthotopic,
+        subcutaneous and metastatic tumor, stroke and myocarditis models etc.). Own research
+        interests within the BERIC concentrate on the development and characterization of new
+        radiotracers and theranostics for various tumor entities, as well as the development of new
+        quantitative multi-parametric imaging approaches.</p>
+
+
+
+    <div class="xw-contact mb-3 mt-5">
+        <div class="xw-module-title mb-5">
+            <h4 class="title">Contact</h4>
+        </div>
+        <div class="xw-contact__item">
+            <div class="row">
+                <div class="col-12">
+                    <h6 class="dk-contact-title">Dr Nicola Beindorff</h6>
+                    <div>
+                        Phone: 030 450 657 013 </div>
+                    <div class="dk-internal-link">
+                        <a href="https://dktk.dkfz.de/en/about-us/contact-1/contact-form?contact=332&p=913">Send
+                            message</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
