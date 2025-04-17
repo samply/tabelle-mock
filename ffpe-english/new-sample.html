@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add New FFPE Sample</title>
+</head>
+<body style="font-family: sans-serif; margin: 0; padding: 0; background-color: #fff;">
+    <div style="max-width: 1200px; margin: 0 auto; padding: 20px;">
+        <div style="text-align: center; margin-bottom: 30px;">
+            <h1>Add New FFPE Sample</h1>
+        </div>
+        
+        <form style="display: flex; flex-direction: column; gap: 20px; max-width: 700px; margin: 0 auto; padding: 0 15px;">
+            <div style="display: flex; flex-direction: column;">
+                <label style="margin-bottom: 8px; font-weight: 600; color: #444; font-size: 15px;" for="patient-pseudonym">Patient Pseudonym:</label>
+                <input style="padding: 12px; font-size: 16px; border: 1px solid #ddd; border-radius: 4px; background-color: #f9f9f9;" type="text" id="patient-pseudonym" name="patient-pseudonym" value="PAT-4872" required>
+            </div>
+            
+            <div style="display: flex; flex-direction: column;">
+                <label style="margin-bottom: 8px; font-weight: 600; color: #444; font-size: 15px;" for="gewebeart">Tissue Type:</label>
+                <select style="padding: 12px 30px 12px 12px; font-size: 16px; border: 1px solid #ddd; border-radius: 4px; background-color: #f9f9f9;" id="gewebeart" name="gewebeart" required>
+                    <option value="Liver" selected>Liver</option>
+                    <option value="Lung">Lung</option>
+                    <option value="Skin">Skin</option>
+                </select>
+            </div>
+            
+            <div style="display: flex; flex-direction: column;">
+                <label style="margin-bottom: 8px; font-weight: 600; color: #444; font-size: 15px;" for="sample-type">FFPE Sample Type:</label>
+                <select style="padding: 12px 30px 12px 12px; font-size: 16px; border: 1px solid #ddd; border-radius: 4px; background-color: #f9f9f9;" id="sample-type" name="sample-type" required>
+                    <option value="Tumor" selected>Tumor</option>
+                    <option value="Normal">Normal</option>
+                    <option value="Metastasis">Metastasis</option>
+                </select>
+            </div>
+            
+            <div style="display: flex; flex-direction: column;">
+                <label style="margin-bottom: 8px; font-weight: 600; color: #444; font-size: 15px;" for="collection-date">Fixation Date:</label>
+                <input style="padding: 12px; font-size: 16px; border: 1px solid #ddd; border-radius: 4px; background-color: #f9f9f9;" type="date" id="collection-date" name="collection-date" value="2025-04-01" required>
+            </div>
+            
+            <div style="display: flex; flex-direction: column;">
+                <label style="margin-bottom: 8px; font-weight: 600; color: #444; font-size: 15px;" for="block-id">Block ID:</label>
+                <input style="padding: 12px; font-size: 16px; border: 1px solid #ddd; border-radius: 4px; background-color: #f9f9f9;" type="text" id="block-id" name="block-id" value="SP-2025-0003" required>
+            </div>
+            
+            <div style="margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee; display: flex; align-items: center; gap: 15px;">
+                <button type="submit" style="padding: 12px 24px; font-size: 16px; background-color: #007BFF; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: 500;">Add FFPE Sample</button>
+                <a href="sample-accompanying-document.html" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 16px;">Sample Accompanying Document Preview</a>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

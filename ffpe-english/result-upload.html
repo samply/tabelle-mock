@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Analysis Results</title>
+</head>
+<body style="font-family: sans-serif; margin: 0; padding: 0; background-color: white;">
+    <div style="max-width: 800px; margin: 0 auto; padding: 30px 20px; background-color: transparent; margin-top: 50px;">
+        <div style="text-align: center; margin-bottom: 30px;">
+            <h1>Upload Analysis Results</h1>
+            <p style="color: #666;">Request ID: AR-2025-0042</p>
+        </div>
+
+        <div style="background-color: #f9f9f9; border-radius: 6px; padding: 20px; margin-bottom: 30px;">
+            <h2 style="margin-top: 0; font-size: 18px; color: #444;">Request Details</h2>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;">
+                <div>
+                    <p style="margin: 5px 0; font-size: 14px;"><strong>Requested by:</strong> Dr. Maria Schmidt</p>
+                    <p style="margin: 5px 0; font-size: 14px;"><strong>Department:</strong> Tumor Biology</p>
+                    <p style="margin: 5px 0; font-size: 14px;"><strong>Submitted on:</strong> April 12, 2025</p>
+                </div>
+                <div>
+                    <p style="margin: 5px 0; font-size: 14px;"><strong>Analysis type:</strong> Spatial Omics from FFPE Tissue</p>
+                    <p style="margin: 5px 0; font-size: 14px;"><strong>Number of samples:</strong> 3</p>
+                    <p style="margin: 5px 0; font-size: 14px;"><strong>Status:</strong> <span style="color: #ff9800; font-weight: bold;">In Progress</span></p>
+                </div>
+            </div>
+        </div>
+
+        <div style="margin-bottom: 30px;">
+            <h2 style="font-size: 18px; color: #444;">Sample Overview</h2>
+            <table style="width: 100%; border-collapse: collapse; font-size: 14px;">
+                <thead>
+                    <tr>
+                        <th style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2;">Block ID</th>
+                        <th style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2;">Tissue Type</th>
+                        <th style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2;">Patient ID</th>
+                        <th style="border: 1px solid #ddd; padding: 10px; text-align: left; background-color: #f2f2f2;">Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr style="background-color: #f9f9f9;">
+                        <td style="border: 1px solid #ddd; padding: 10px; text-align: left;">FB-2025-0002</td>
+                        <td style="border: 1px solid #ddd; padding: 10px; text-align: left;">Intestine</td>
+                        <td style="border: 1px solid #ddd; padding: 10px; text-align: left;">PAT-5391</td>
+                        <td style="border: 1px solid #ddd; padding: 10px; text-align: left;"><span style="color: #4caf50;">✓ Completed</span></td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px solid #ddd; padding: 10px; text-align: left;">FB-2025-0003</td>
+                        <td style="border: 1px solid #ddd; padding: 10px; text-align: left;">Brain</td>
+                        <td style="border: 1px solid #ddd; padding: 10px; text-align: left;">PAT-4213</td>
+                        <td style="border: 1px solid #ddd; padding: 10px; text-align: left;"><span style="color: #4caf50;">✓ Completed</span></td>
+                    </tr>
+                    <tr style="background-color: #f9f9f9;">
+                        <td style="border: 1px solid #ddd; padding: 10px; text-align: left;">FB-2025-0005</td>
+                        <td style="border: 1px solid #ddd; padding: 10px; text-align: left;">Breast</td>
+                        <td style="border: 1px solid #ddd; padding: 10px; text-align: left;">PAT-4629</td>
+                        <td style="border: 1px solid #ddd; padding: 10px; text-align: left;"><span style="color: #4caf50;">✓ Completed</span></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div style="margin-bottom: 30px;">
+            <h2 style="font-size: 18px; color: #444;">Upload Results</h2>
+            
+            <div style="border: 2px dashed #ccc; border-radius: 6px; padding: 30px; text-align: center; margin-bottom: 20px; background-color: #fafafa;">
+                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24" fill="none" stroke="#666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                    <polyline points="17 8 12 3 7 8"></polyline>
+                    <line x1="12" y1="3" x2="12" y2="15"></line>
+                </svg>
+                <h3 style="margin: 15px 0;">Drag files here or click to upload</h3>
+                <p style="color: #666; margin-bottom: 20px;">Accepted file formats: .jpg, .png, .tiff, .json, .zip (max. 500MB)</p>
+                <input type="file" id="fileUpload" style="display: none;" multiple>
+                <label for="fileUpload" style="background-color: #007BFF; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 4px; cursor: pointer;">Select Files</label>
+            </div>
+        </div>
+
+        <div style="margin-top: 20px;">
+            <h3>Uploaded Files (0)</h3>
+            <p style="color: #666; font-style: italic;">No files uploaded yet</p>
+            
+            <div style="border-top: 1px solid #ddd; margin-top: 30px; padding-top: 20px; display: flex; justify-content: space-between;">
+                <div>
+                    <label>
+                        <input type="checkbox">
+                        Analysis is complete
+                    </label>
+                </div>
+                <div>
+                    <button style="background-color: #007BFF; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 4px; cursor: pointer;" disabled>Submit Results</button>
+                    <button style="background-color: #6c757d; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 4px; cursor: pointer; margin-left: 10px;">Save Draft</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
