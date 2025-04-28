@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Samples by Patient</title>
+</head>
+<body style="font-family: sans-serif; margin: 0; padding: 0;">
+    <div style="max-width: 1200px; margin: 0 auto; padding: 20px;">
+        <div style="text-align: center; margin-bottom: 20px;">
+            <h1>Samples by Patient</h1>
+        </div>
+
+        <!-- Search bar and buttons container -->
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; gap: 15px;">
+            <div style="margin-bottom: 0; flex-grow: 1; display: flex; align-items: center;">
+                <input type="text" placeholder="Search patients and samples..." style="padding: 10px; font-size: 16px; border: 1px solid #ddd; border-radius: 4px; width: 100%; margin-right: 0;">
+            </div>
+            <div style="text-align: center; margin-top: 0;">
+                <a href="new-patient.html">
+                    <button style="padding: 10px 20px; font-size: 16px; background-color: #007BFF; color: white; border: none; border-radius: 4px; cursor: pointer;" type="button">Add Patient</button>
+                </a>
+            </div>
+            <div style="text-align: center; margin-top: 0;">
+                <a href="request-analysis.html">
+                    <button style="padding: 10px 20px; font-size: 16px; background-color: #007BFF; color: white; border: none; border-radius: 4px; cursor: pointer;" type="button">Request Analysis</button>
+                </a>
+            </div>
+        </div>
+
+        <!-- Patient-Sample Table -->
+        <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+            <thead>
+                <tr>
+                    <th style="border: 1px solid #ddd; padding: 12px; text-align: left; background-color: #f2f2f2; font-weight: bold; cursor: pointer;">Patient/Sample</th>
+                    <th style="border: 1px solid #ddd; padding: 12px; text-align: left; background-color: #f2f2f2; font-weight: bold; cursor: pointer;">Date</th>
+                    <th style="border: 1px solid #ddd; padding: 12px; text-align: left; background-color: #f2f2f2; font-weight: bold; cursor: pointer;">Tissue Type</th>
+                    <th style="border: 1px solid #ddd; padding: 12px; text-align: left; background-color: #f2f2f2; font-weight: bold; cursor: pointer;">Tumor/Normal</th>
+                    <th style="border: 1px solid #ddd; padding: 12px; text-align: left; background-color: #f2f2f2; font-weight: bold; cursor: pointer;">Remaining Material</th>
+                    <th style="border: 1px solid #ddd; padding: 12px; text-align: left; background-color: #f2f2f2; font-weight: bold; cursor: pointer;">Biobank</th>
+                    <th style="border: 1px solid #ddd; padding: 12px; text-align: left; background-color: #f2f2f2; font-weight: bold; cursor: pointer;">Details</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Patient 1 (Expanded) -->
+                <tr style="background-color: #e6f7ff; cursor: pointer;">
+                    <td colspan="7" style="border: 1px solid #ddd; padding: 12px; font-weight: bold;">
+                        <div style="display: flex; align-items: center;">
+                            <span style="margin-right: 10px;">▼</span> Patient: PAT-4872 | Date of Diagnosis: 2025-01-15
+                        </div>
+                    </td>
+                </tr>
+                <!-- Patient 1's Samples -->
+                <tr style="background-color: #f9f9f9;">
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left; padding-left: 40px;">FB-2025-0001</td>
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left;">2025-03-15</td>
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left;">Liver</td>
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left;">Tumor</td>
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left;">Sufficient</td>
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left;">MTBio</td>
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left;"><a href="sample-detail.html" style="color: #007BFF; text-decoration: none;">View Sample</a></td>
+                </tr>
+                <tr style="background-color: #f9f9f9;">
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left; padding-left: 40px;">FB-2025-0007</td>
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left;">2025-03-23</td>
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left;">Liver</td>
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left;">Normal</td>
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left;">Sufficient</td>
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left;">MTBio</td>
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left;"><a href="sample-detail.html" style="color: #007BFF; text-decoration: none;">View Sample</a></td>
+                </tr>
+
+                <!-- Patient 2 (Expanded) -->
+                <tr style="background-color: #e6f7ff; cursor: pointer;">
+                    <td colspan="7" style="border: 1px solid #ddd; padding: 12px; font-weight: bold;">
+                        <div style="display: flex; align-items: center;">
+                            <span style="margin-right: 10px;">▼</span> Patient: PAT-5391 | Date of Diagnosis: 2025-02-10
+                        </div>
+                    </td>
+                </tr>
+                <!-- Patient 2's Samples -->
+                <tr style="background-color: #f9f9f9;">
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left; padding-left: 40px;">FB-2025-0002</td>
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left;">2025-03-16</td>
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left;">Intestine</td>
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left;">Tumor</td>
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left;">Sufficient</td>
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left;">MTBio</td>
+                    <td style="border: 1px solid #ddd; padding: 12px; text-align: left;"><a href="sample-detail.html" style="color: #007BFF; text-decoration: none;">View Sample</a></td>
+                </tr>
+
+                <!-- Patient 3 (Collapsed) -->
+                <tr style="background-color: #e6f7ff; cursor: pointer;">
+                    <td colspan="7" style="border: 1px solid #ddd; padding: 12px; font-weight: bold;">
+                        <div style="display: flex; align-items: center;">
+                            <span style="margin-right: 10px;">►</span> Patient: PAT-4213 | Date of Diagnosis: 2025-03-01
+                        </div>
+                    </td>
+                </tr>
+
+                <!-- Patient 4 (Collapsed) -->
+                <tr style="background-color: #e6f7ff; cursor: pointer;">
+                    <td colspan="7" style="border: 1px solid #ddd; padding: 12px; font-weight: bold;">
+                        <div style="display: flex; align-items: center;">
+                            <span style="margin-right: 10px;">►</span> Patient: PAT-5102 | Date of Diagnosis: 2025-03-05
+                        </div>
+                    </td>
+                </tr>
+
+                <!-- Patient 5 (Collapsed) -->
+                <tr style="background-color: #e6f7ff; cursor: pointer;">
+                    <td colspan="7" style="border: 1px solid #ddd; padding: 12px; font-weight: bold;">
+                        <div style="display: flex; align-items: center;">
+                            <span style="margin-right: 10px;">►</span> Patient: PAT-4629 | Date of Diagnosis: 2025-02-20
+                        </div>
+                    </td>
+                </tr>
+
+                <!-- Patient 6 (Collapsed) -->
+                <tr style="background-color: #e6f7ff; cursor: pointer;">
+                    <td colspan="7" style="border: 1px solid #ddd; padding: 12px; font-weight: bold;">
+                        <div style="display: flex; align-items: center;">
+                            <span style="margin-right: 10px;">►</span> Patient: PAT-5874 | Date of Diagnosis: 2025-01-30
+                        </div>
+                    </td>
+                </tr>
+
+                <!-- Patient 7 (Collapsed) -->
+                <tr style="background-color: #e6f7ff; cursor: pointer;">
+                    <td colspan="7" style="border: 1px solid #ddd; padding: 12px; font-weight: bold;">
+                        <div style="display: flex; align-items: center;">
+                            <span style="margin-right: 10px;">►</span> Patient: PAT-6023 | Date of Diagnosis: 2025-02-25
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Pagination -->
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+            <div>
+                <span>Showing 1-7 of 24 patients</span>
+            </div>
+            <div>
+                <button style="padding: 8px 12px; margin: 0 5px; background-color: #f2f2f2; border: 1px solid #ddd; cursor: pointer; border-radius: 4px;" disabled>Previous</button>
+                <button style="padding: 8px 12px; margin: 0 5px; background-color: #007BFF; color: white; border: none; cursor: pointer; border-radius: 4px;">1</button>
+                <button style="padding: 8px 12px; margin: 0 5px; background-color: #f2f2f2; border: 1px solid #ddd; cursor: pointer; border-radius: 4px;">2</button>
+                <button style="padding: 8px 12px; margin: 0 5px; background-color: #f2f2f2; border: 1px solid #ddd; cursor: pointer; border-radius: 4px;">3</button>
+                <button style="padding: 8px 12px; margin: 0 5px; background-color: #f2f2f2; border: 1px solid #ddd; cursor: pointer; border-radius: 4px;">Next</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

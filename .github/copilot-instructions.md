@@ -1,0 +1,1 @@
+This repository is a collection of mock HTML files that demonstrate how a UI could look. They are not expected to work, so never add any JS. Also always use inline styles. This means never use `<style>` or `<script>` tags.
