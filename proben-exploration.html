@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Proben erkunden</title>
+</head>
+<body style="font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, 'Noto Sans'; margin: 0; color: #222; background: #ffffff;">
+    <div style="max-width: 1200px; margin: 0 auto; padding: 20px;">
+        <h1 style="margin: 0 0 8px; font-size: 28px;">Proben erkunden</h1>
+    <div style="color: #6b7280; font-size: 14px; margin-bottom: 18px;">Filtern Sie die Tabelle nach Kriterien; aktive Filter werden als Pillen angezeigt. Weitere Filter können über das Eingabefeld ergänzt werden.</div>
+
+        <!-- Fancy filter pills bar (visual example) -->
+        <div aria-label="Aktive Filter" style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap; border: 1px solid #e5e7eb; border-radius: 10px; padding: 10px; background: #f8fafc;">
+            <div title="Filter: Blastome = Hepatoblastom" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 10px; border-radius: 999px; background: #eef2ff; color: #3730a3; border: 1px solid #d9ddff; font-size: 13px;">
+                <span style="font-weight: 600;">Blastome</span>
+                <span style="color: #9aa0ff;">:</span>
+                <span>Hepatoblastom</span>
+                <span aria-hidden="true" style="cursor: pointer; color: #6366f1; opacity: 0.9;">✕</span>
+            </div>
+            <div title="Filter: Therapie des Tumors = Chemotherapie" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 10px; border-radius: 999px; background: #eef2ff; color: #3730a3; border: 1px solid #d9ddff; font-size: 13px;">
+                <span style="font-weight: 600;">Therapie des Tumors</span>
+                <span style="color: #9aa0ff;">:</span>
+                <span>Chemotherapie</span>
+                <span aria-hidden="true" style="cursor: pointer; color: #6366f1; opacity: 0.9;">✕</span>
+            </div>
+            <input type="text" placeholder="Filter hinzufügen… (z. B. Organ: Leber)" aria-label="Filter hinzufügen" style="flex: 1; min-width: 180px; border: none; outline: none; background: transparent; font-size: 14px; color: #222;" />
+        </div>
+
+        <div style="margin-top: 18px; border: 1px solid #e5e7eb; border-radius: 8px; overflow: hidden; background: #ffffff;">
+            <table style="width: 100%; border-collapse: collapse;">
+                <thead>
+                    <tr>
+                        <th scope="col" style="background: #f2f4f7; border-bottom: 1px solid #e5e7eb; text-align: left; padding: 12px; font-weight: 700; font-size: 14px; color: #374151; user-select: none; cursor: pointer;">Proben-ID <span style="float: right; display: inline-flex; flex-direction: column; line-height: 10px; color: #c4c7cf;"><span style="font-size: 12px;">▲</span><span style="font-size: 12px;">▼</span></span></th>
+                        <th scope="col" style="background: #f2f4f7; border-bottom: 1px solid #e5e7eb; text-align: left; padding: 12px; font-weight: 700; font-size: 14px; color: #374151; user-select: none; cursor: pointer;">Probenart <span style="float: right; display: inline-flex; flex-direction: column; line-height: 10px; color: #c4c7cf;"><span style="font-size: 12px;">▲</span><span style="font-size: 12px;">▼</span></span></th>
+                        <th scope="col" style="background: #f2f4f7; border-bottom: 1px solid #e5e7eb; text-align: left; padding: 12px; font-weight: 700; font-size: 14px; color: #374151; user-select: none; cursor: pointer;">Entnahmedatum <span style="float: right; display: inline-flex; flex-direction: column; line-height: 10px; color: #c4c7cf;"><span style="font-size: 12px;">▲</span><span style="font-size: 12px; color: #007bff;">▼</span></span></th>
+                        <th scope="col" style="background: #f2f4f7; border-bottom: 1px solid #e5e7eb; text-align: left; padding: 12px; font-weight: 700; font-size: 14px; color: #374151; user-select: none; cursor: pointer;">Patient-Pseudonym <span style="float: right; display: inline-flex; flex-direction: column; line-height: 10px; color: #c4c7cf;"><span style="font-size: 12px;">▲</span><span style="font-size: 12px;">▼</span></span></th>
+                        <th scope="col" style="background: #f2f4f7; border-bottom: 1px solid #e5e7eb; text-align: left; padding: 12px; font-weight: 700; font-size: 14px; color: #374151; user-select: none; cursor: pointer;">Menge/Volumen <span style="float: right; display: inline-flex; flex-direction: column; line-height: 10px; color: #c4c7cf;"><span style="font-size: 12px;">▲</span><span style="font-size: 12px;">▼</span></span></th>
+                        <th scope="col" style="background: #f2f4f7; border-bottom: 1px solid #e5e7eb; text-align: left; padding: 12px; font-weight: 700; font-size: 14px; color: #374151; user-select: none; cursor: pointer;">Probenzustand <span style="float: right; display: inline-flex; flex-direction: column; line-height: 10px; color: #c4c7cf;"><span style="font-size: 12px;">▲</span><span style="font-size: 12px;">▼</span></span></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr style="background: #fafbff;">
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0001</a></td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Gewebe FFPE</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-15</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">PAT-4872</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">—</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Fixiert</td>
+                    </tr>
+                    <tr>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0002</a></td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Gewebe schockgefroren</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-16</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">PAT-5391</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">—</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Gefroren</td>
+                    </tr>
+                    <tr style="background: #fafbff;">
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0003</a></td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Gewebe, andere Konservierungsart</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-18</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">PAT-4213</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">—</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Konserviert</td>
+                    </tr>
+                    <tr>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0004</a></td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Vollblut</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-20</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">PAT-5102</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">6 mL</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Frisch</td>
+                    </tr>
+                    <tr style="background: #fafbff;">
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0005</a></td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Serum</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-21</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">PAT-4629</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2 mL</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Gefroren</td>
+                    </tr>
+                    <tr>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0006</a></td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Plasma</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-22</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">PAT-5874</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">3 mL</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Gefroren</td>
+                    </tr>
+                    <tr style="background: #fafbff;">
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0007</a></td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Buffy Coat</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-23</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">PAT-4872</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">—</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Gefroren</td>
+                    </tr>
+                    <tr>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0008</a></td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Periphere mononukleäre Blutzellen (PBMC)</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-24</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">PAT-6023</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">3 Mio Zellen</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Kryokonserviert</td>
+                    </tr>
+                    <tr style="background: #fafbff;">
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0009</a></td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Serum (AFP)</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-25</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">PAT-5219</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2 mL</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Gefroren</td>
+                    </tr>
+                    <tr>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0010</a></td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Plasma (prä-Chemo)</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-26</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">PAT-3982</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">12 mL</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Frisch</td>
+                    </tr>
+                    <tr style="background: #fafbff;">
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0011</a></td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Leberresektat (FFPE)</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-27</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">PAT-7142</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2 cm³</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Fixiert</td>
+                    </tr>
+                    <tr>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0012</a></td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Aszites</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-28</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">PAT-5023</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">30 mL</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Gefroren</td>
+                    </tr>
+                    <tr style="background: #fafbff;">
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0013</a></td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Plasma (post-Chemo)</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-29</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">PAT-4952</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">3 mL</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Gefroren</td>
+                    </tr>
+                    <tr>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0014</a></td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Serum (AFP-Kontrolle)</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-30</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">PAT-6731</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2 mL</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Gefroren</td>
+                    </tr>
+                    <tr style="background: #fafbff;">
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0015</a></td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Lebergewebe schockgefroren</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-31</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">PAT-4388</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2 cm³</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Gefroren</td>
+                    </tr>
+                    <tr>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0016</a></td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Plasma cfDNA</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-04-01</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">PAT-5762</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2 mL</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Gefroren</td>
+                    </tr>
+                    <tr style="background: #fafbff;">
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0017</a></td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Flüssigprobe, andere</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-04-02</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">PAT-6329</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">5 mL</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Gefroren</td>
+                    </tr>
+                    <tr>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0018</a></td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">DNA</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-04-03</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">PAT-4127</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">200 ng</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Isoliert</td>
+                    </tr>
+                    <tr style="background: #fafbff;">
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0019</a></td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">RNA</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-04-04</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">PAT-5493</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">500 ng</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Isoliert</td>
+                    </tr>
+                    <tr>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0020</a></td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Derivat, andere</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-04-05</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">PAT-6814</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">—</td>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Gekühlt</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
