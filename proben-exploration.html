@@ -3,12 +3,18 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Proben erkunden</title>
+    <title>Passende Proben</title>
 </head>
 <body style="font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, 'Noto Sans'; margin: 0; color: #222; background: #ffffff;">
     <div style="max-width: 1200px; margin: 0 auto; padding: 20px;">
-        <h1 style="margin: 0 0 8px; font-size: 28px;">Proben erkunden</h1>
-    <div style="color: #6b7280; font-size: 14px; margin-bottom: 18px;">Filtern Sie die Tabelle nach Kriterien; aktive Filter werden als Pillen angezeigt. Weitere Filter können über das Eingabefeld ergänzt werden.</div>
+        <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px;">
+            <h1 style="margin: 0; font-size: 28px;">Passende Proben</h1>
+            <div style="display: flex; align-items: center; gap: 8px; padding: 6px 12px; background: #f3f4f6; border-radius: 6px; font-size: 13px; color: #6b7280;">
+                <span style="font-weight: 600;">Query ID:</span>
+                <span style="font-family: 'Courier New', monospace; color: #374151;">QRY-2025-08-0042</span>
+            </div>
+        </div>
+    <div style="color: #6b7280; font-size: 14px; margin-bottom: 18px;">Ergebnisse einer zuvor ausgeführten Abfrage. Filtern Sie die Tabelle nach weiteren Kriterien; aktive Filter werden als Pillen angezeigt.</div>
 
         <!-- Fancy filter pills bar (visual example) -->
         <div aria-label="Aktive Filter" style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap; border: 1px solid #e5e7eb; border-radius: 10px; padding: 10px; background: #f8fafc;">
@@ -31,6 +37,9 @@
             <table style="width: 100%; border-collapse: collapse;">
                 <thead>
                     <tr>
+                        <th scope="col" style="background: #f2f4f7; border-bottom: 1px solid #e5e7eb; padding: 12px; width: 40px;">
+                            <input type="checkbox" style="accent-color: #007bff;">
+                        </th>
                         <th scope="col" style="background: #f2f4f7; border-bottom: 1px solid #e5e7eb; padding: 12px; font-weight: 700; font-size: 14px; color: #374151; user-select: none; cursor: pointer;">
                             <div style="display: flex; align-items: center; justify-content: space-between; white-space: nowrap;">
                                 <span>Proben-ID</span>
@@ -83,6 +92,9 @@
                 </thead>
                 <tbody>
                     <tr style="background: #fafbff;">
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; text-align: center;">
+                            <input type="checkbox" style="accent-color: #007bff;">
+                        </td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0001</a></td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Gewebe FFPE</td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-15</td>
@@ -93,6 +105,9 @@
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">—</td>
                     </tr>
                     <tr>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; text-align: center;">
+                            <input type="checkbox" style="accent-color: #007bff;">
+                        </td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0002</a></td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Gewebe FFPE</td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-16</td>
@@ -103,6 +118,9 @@
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">—</td>
                     </tr>
                     <tr style="background: #fafbff;">
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; text-align: center;">
+                            <input type="checkbox" checked style="accent-color: #007bff;">
+                        </td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0003</a></td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Vollblut</td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-18</td>
@@ -113,6 +131,9 @@
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">—</td>
                     </tr>
                     <tr>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; text-align: center;">
+                            <input type="checkbox" style="accent-color: #007bff;">
+                        </td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0004</a></td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Vollblut</td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-20</td>
@@ -123,6 +144,9 @@
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">6 mL</td>
                     </tr>
                     <tr style="background: #fafbff;">
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; text-align: center;">
+                            <input type="checkbox" style="accent-color: #007bff;">
+                        </td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0005</a></td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Serum</td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-21</td>
@@ -133,6 +157,9 @@
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2 mL</td>
                     </tr>
                     <tr>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; text-align: center;">
+                            <input type="checkbox" style="accent-color: #007bff;">
+                        </td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0006</a></td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Plasma</td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-22</td>
@@ -143,6 +170,9 @@
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">3 mL</td>
                     </tr>
                     <tr style="background: #fafbff;">
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; text-align: center;">
+                            <input type="checkbox" checked style="accent-color: #007bff;">
+                        </td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0007</a></td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Buffy Coat</td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-23</td>
@@ -153,6 +183,9 @@
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">—</td>
                     </tr>
                     <tr>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; text-align: center;">
+                            <input type="checkbox" style="accent-color: #007bff;">
+                        </td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0008</a></td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Vollblut</td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-24</td>
@@ -163,6 +196,9 @@
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">3 mL</td>
                     </tr>
                     <tr style="background: #fafbff;">
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; text-align: center;">
+                            <input type="checkbox" style="accent-color: #007bff;">
+                        </td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0009</a></td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Serum</td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-25</td>
@@ -173,6 +209,9 @@
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2 mL</td>
                     </tr>
                     <tr>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; text-align: center;">
+                            <input type="checkbox" style="accent-color: #007bff;">
+                        </td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0010</a></td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Plasma</td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-26</td>
@@ -183,6 +222,9 @@
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">12 mL</td>
                     </tr>
                     <tr style="background: #fafbff;">
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; text-align: center;">
+                            <input type="checkbox" style="accent-color: #007bff;">
+                        </td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0011</a></td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Gewebe FFPE</td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-27</td>
@@ -193,6 +235,9 @@
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2 cm³</td>
                     </tr>
                     <tr>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; text-align: center;">
+                            <input type="checkbox" checked style="accent-color: #007bff;">
+                        </td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0012</a></td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Aszites</td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-28</td>
@@ -203,6 +248,9 @@
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">30 mL</td>
                     </tr>
                     <tr style="background: #fafbff;">
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; text-align: center;">
+                            <input type="checkbox" style="accent-color: #007bff;">
+                        </td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0013</a></td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Plasma</td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-29</td>
@@ -213,6 +261,9 @@
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">3 mL</td>
                     </tr>
                     <tr>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; text-align: center;">
+                            <input type="checkbox" style="accent-color: #007bff;">
+                        </td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0014</a></td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Serum</td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-30</td>
@@ -223,6 +274,9 @@
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2 mL</td>
                     </tr>
                     <tr style="background: #fafbff;">
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; text-align: center;">
+                            <input type="checkbox" style="accent-color: #007bff;">
+                        </td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0015</a></td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Gewebe FFPE</td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-03-31</td>
@@ -233,6 +287,9 @@
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2 cm³</td>
                     </tr>
                     <tr>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; text-align: center;">
+                            <input type="checkbox" style="accent-color: #007bff;">
+                        </td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0016</a></td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Plasma</td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-04-01</td>
@@ -243,6 +300,9 @@
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2 mL</td>
                     </tr>
                     <tr style="background: #fafbff;">
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; text-align: center;">
+                            <input type="checkbox" style="accent-color: #007bff;">
+                        </td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0017</a></td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Serum</td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-04-02</td>
@@ -253,6 +313,9 @@
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">5 mL</td>
                     </tr>
                     <tr>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; text-align: center;">
+                            <input type="checkbox" style="accent-color: #007bff;">
+                        </td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0018</a></td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">DNA</td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-04-03</td>
@@ -263,6 +326,9 @@
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">200 ng</td>
                     </tr>
                     <tr style="background: #fafbff;">
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; text-align: center;">
+                            <input type="checkbox" style="accent-color: #007bff;">
+                        </td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0019</a></td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">RNA</td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-04-04</td>
@@ -273,6 +339,9 @@
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">500 ng</td>
                     </tr>
                     <tr>
+                        <td style="border-top: 1px solid #e5e7eb; padding: 12px; text-align: center;">
+                            <input type="checkbox" style="accent-color: #007bff;">
+                        </td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;"><a href="ffpe-deutsch/sample-detail.html" style="color: #007bff; text-decoration: none; font-weight: 600;">PR-2025-0020</a></td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">Vollblut</td>
                         <td style="border-top: 1px solid #e5e7eb; padding: 12px; font-size: 14px;">2025-04-05</td>
