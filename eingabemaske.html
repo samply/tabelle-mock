@@ -1,0 +1,83 @@
+<html>
+  <head>
+    <title>Patient anlegen – Pseudonymisierungsdienst</title>
+  </head>
+  <body style="font-family: Arial, sans-serif; background: #f7f7f7; margin: 0; padding: 0;">
+    <div style="max-width: 800px; margin: 40px auto; background: #fff; border-radius: 8px; box-shadow: 0 2px 8px #0001; padding: 32px;">
+      <h2 style="margin-top: 0; margin-bottom: 32px; font-size: 2em; color: #2c3e50;">Neuen Patienten anlegen</h2>
+      <form autocomplete="off">
+        <div style="display: flex; gap: 40px;">
+          <!-- Linke Spalte: Persönliche Daten -->
+          <div style="flex: 1;">
+            <label style="display: block; margin-bottom: 16px;">
+              <span style="display: block; margin-bottom: 4px;">Vorname</span>
+              <input type="text" value="Anna" style="width: 100%; padding: 8px; border: 1px solid #bbb; border-radius: 4px; font-size: 1em;" tabindex="1" />
+            </label>
+            <label style="display: block; margin-bottom: 16px;">
+              <span style="display: block; margin-bottom: 4px;">Nachname</span>
+              <input type="text" value="Musterfrau" style="width: 100%; padding: 8px; border: 1px solid #bbb; border-radius: 4px; font-size: 1em;" tabindex="2" />
+            </label>
+            <label style="display: block; margin-bottom: 16px;">
+              <span style="display: block; margin-bottom: 4px;">Geburtsname</span>
+              <input type="text" value="Beispiel" style="width: 100%; padding: 8px; border: 1px solid #bbb; border-radius: 4px; font-size: 1em;" tabindex="3" />
+            </label>
+            <label style="display: block; margin-bottom: 16px;">
+              <span style="display: block; margin-bottom: 4px;">Geburtsdatum</span>
+              <input type="date" value="1985-07-12" style="width: 100%; padding: 8px; border: 1px solid #bbb; border-radius: 4px; font-size: 1em;" tabindex="4" />
+            </label>
+            <label style="display: block; margin-bottom: 16px;">
+              <span style="display: block; margin-bottom: 4px;">Geschlecht</span>
+              <select style="width: 100%; padding: 8px; border: 1px solid #bbb; border-radius: 4px; font-size: 1em;" tabindex="5">
+                <option>weiblich</option>
+                <option>männlich</option>
+                <option>divers</option>
+              </select>
+            </label>
+          </div>
+          <!-- Rechte Spalte: Adresse -->
+          <div style="flex: 1;">
+            <label style="display: block; margin-bottom: 8px;">
+              <span style="display: block; margin-bottom: 4px;">Adresse</span>
+              <input type="text" value="280 Im Neuen" style="width: 100%; padding: 8px; border: 1px solid #bbb; border-radius: 4px; font-size: 1em;" tabindex="6" />
+            </label>
+            <!-- Autovervollständigung Mockup -->
+            <div style="background: #fff; border: 1px solid #2d8cf0; border-radius: 4px; margin-bottom: 24px; box-shadow: 0 2px 8px #2d8cf033;">
+              <div style="padding: 8px 12px; background: #eaf6ff; color: #2d8cf0; font-weight: bold;">
+                Vorschlag:
+              </div>
+              <div style="padding: 12px 12px 8px 12px;">
+                <div style="margin-bottom: 4px;"><span style="color: #888;">Hausnummer:</span> <b>280</b></div>
+                <div style="margin-bottom: 4px;"><span style="color: #888;">Straße:</span> <b>Im Neuenheimer Feld</b></div>
+                <div style="margin-bottom: 4px;"><span style="color: #888;">PLZ:</span> <b>69120</b></div>
+                <div><span style="color: #888;">Stadt:</span> <b>Heidelberg</b></div>
+              </div>
+            </div>
+            <div style="display: flex; gap: 12px;">
+              <label style="flex: 1;">
+                <span style="display: block; margin-bottom: 4px;">Hausnummer</span>
+                <input type="text" value="280" style="width: 100%; padding: 8px; border: 1px solid #bbb; border-radius: 4px; font-size: 1em; background: #f3f9ff;" tabindex="7" />
+              </label>
+              <label style="flex: 3;">
+                <span style="display: block; margin-bottom: 4px;">Straße</span>
+                <input type="text" value="Im Neuenheimer Feld" style="width: 100%; padding: 8px; border: 1px solid #bbb; border-radius: 4px; font-size: 1em; background: #f3f9ff;" tabindex="8" />
+              </label>
+            </div>
+            <div style="display: flex; gap: 12px; margin-top: 16px;">
+              <label style="flex: 1;">
+                <span style="display: block; margin-bottom: 4px;">PLZ</span>
+                <input type="text" value="69120" style="width: 100%; padding: 8px; border: 1px solid #bbb; border-radius: 4px; font-size: 1em; background: #f3f9ff;" tabindex="9" />
+              </label>
+              <label style="flex: 2;">
+                <span style="display: block; margin-bottom: 4px;">Stadt</span>
+                <input type="text" value="Heidelberg" style="width: 100%; padding: 8px; border: 1px solid #bbb; border-radius: 4px; font-size: 1em; background: #f3f9ff;" tabindex="10" />
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="margin-top: 40px; text-align: right;">
+          <button type="submit" style="background: #2d8cf0; color: #fff; border: none; border-radius: 4px; padding: 12px 32px; font-size: 1.1em; cursor: pointer;">Patient anlegen</button>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>

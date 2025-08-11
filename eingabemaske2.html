@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patientenanmeldung</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f4f7f6; margin: 0; padding: 20px; display: flex; justify-content: center;">
+
+    <div style="background-color: #ffffff; padding: 30px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); width: 800px;">
+
+        <h1 style="text-align: center; color: #333; margin-bottom: 30px;">Neuen Patienten anlegen</h1>
+
+        <form action="#" method="post">
+
+            <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+                <div style="width: 48%;">
+                    <label for="vorname" style="display: block; margin-bottom: 8px; color: #555; font-weight: bold;">Vorname:</label>
+                    <input type="text" id="vorname" name="vorname" value="Erika" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box;">
+                </div>
+                <div style="width: 48%;">
+                    <label for="nachname" style="display: block; margin-bottom: 8px; color: #555; font-weight: bold;">Nachname:</label>
+                    <input type="text" id="nachname" name="nachname" value="Mustermann" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box;">
+                </div>
+            </div>
+
+            <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+                <div style="width: 48%;">
+                    <label for="geburtsname" style="display: block; margin-bottom: 8px; color: #555; font-weight: bold;">Geburtsname (falls abweichend):</label>
+                    <input type="text" id="geburtsname" name="geburtsname" value="Gabler" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box;">
+                </div>
+                <div style="width: 48%;">
+                    <label for="geburtsdatum" style="display: block; margin-bottom: 8px; color: #555; font-weight: bold;">Geburtsdatum:</label>
+                    <input type="date" id="geburtsdatum" name="geburtsdatum" value="1985-06-15" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box;">
+                </div>
+            </div>
+
+            <div style="margin-bottom: 20px;">
+                <label style="display: block; margin-bottom: 8px; color: #555; font-weight: bold;">Geschlecht:</label>
+                <div style="display: flex; align-items: center;">
+                    <input type="radio" id="weiblich" name="geschlecht" value="weiblich" checked style="margin-right: 5px;">
+                    <label for="weiblich" style="margin-right: 20px; color: #555;">Weiblich</label>
+                    <input type="radio" id="maennlich" name="geschlecht" value="maennlich" style="margin-right: 5px;">
+                    <label for="maennlich" style="margin-right: 20px; color: #555;">Männlich</label>
+                    <input type="radio" id="divers" name="geschlecht" value="divers" style="margin-right: 5px;">
+                    <label for="divers" style="color: #555;">Divers</label>
+                </div>
+            </div>
+
+            <div style="margin-bottom: 20px; border: 1px solid #e0e0e0; padding: 20px; border-radius: 5px; background-color: #f9f9f9;">
+                <h3 style="margin-top: 0; margin-bottom: 15px; color: #333; font-size: 1.1em;">Adresse</h3>
+                <label for="adresse_eingabe" style="display: block; margin-bottom: 8px; color: #555; font-weight: bold;">Adresse eingeben (z.B. "280 Im Neuen"):</label>
+                <input type="text" id="adresse_eingabe" name="adresse_eingabe" value="280 Im Neuen" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; margin-bottom: 10px; background-color: #e6f7ff;">
+                <p style="font-size: 0.9em; color: #777; margin-top: 0; margin-bottom: 15px;"><em>Autovervollständigung aktiv: Beginnen Sie mit der Hausnummer, dann Straße.</em></p>
+
+                <div style="border: 1px dashed #007bff; padding: 15px; border-radius: 4px; background-color: #e6f7ff;">
+                    <p style="margin:0 0 10px 0; font-weight: bold; color: #0056b3;">Vervollständigte Adresse:</p>
+                    <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+                        <div style="width: calc(50% - 10px); margin-bottom: 10px;">
+                            <label for="strasse_auto" style="display: block; margin-bottom: 5px; color: #555; font-size: 0.9em;">Straße:</label>
+                            <input type="text" id="strasse_auto" name="strasse_auto" value="Im Neuenheimer Feld" readonly style="width: 100%; padding: 8px; border: 1px solid #add8e6; border-radius: 4px; box-sizing: border-box; background-color: #f0f8ff; color: #333;">
+                        </div>
+                        <div style="width: calc(50% - 10px); margin-bottom: 10px;">
+                            <label for="hausnummer_auto" style="display: block; margin-bottom: 5px; color: #555; font-size: 0.9em;">Hausnummer:</label>
+                            <input type="text" id="hausnummer_auto" name="hausnummer_auto" value="280" readonly style="width: 100%; padding: 8px; border: 1px solid #add8e6; border-radius: 4px; box-sizing: border-box; background-color: #f0f8ff; color: #333;">
+                        </div>
+                        <div style="width: calc(50% - 10px); margin-bottom: 10px;">
+                            <label for="plz_auto" style="display: block; margin-bottom: 5px; color: #555; font-size: 0.9em;">Postleitzahl:</label>
+                            <input type="text" id="plz_auto" name="plz_auto" value="69120" readonly style="width: 100%; padding: 8px; border: 1px solid #add8e6; border-radius: 4px; box-sizing: border-box; background-color: #f0f8ff; color: #333;">
+                        </div>
+                        <div style="width: calc(50% - 10px); margin-bottom: 10px;">
+                            <label for="stadt_auto" style="display: block; margin-bottom: 5px; color: #555; font-size: 0.9em;">Stadt:</label>
+                            <input type="text" id="stadt_auto" name="stadt_auto" value="Heidelberg" readonly style="width: 100%; padding: 8px; border: 1px solid #add8e6; border-radius: 4px; box-sizing: border-box; background-color: #f0f8ff; color: #333;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div style="text-align: center; margin-top: 30px;">
+                <button type="submit" style="background-color: #28a745; color: white; padding: 12px 25px; border: none; border-radius: 4px; cursor: pointer; font-size: 1.1em; transition: background-color 0.3s ease;">
+                    Patient anlegen
+                </button>
+            </div>
+
+        </form>
+    </div>
+
+</body>
+</html>
+<!-- filepath: /home/tim/projects/tabelle-mock/eingabemaske2.html -->
